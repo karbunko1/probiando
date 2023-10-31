@@ -110,250 +110,96 @@ https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdttelemadrid-dash-movistarplus.emisiondof6.com/dash/tdttelemadrid.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ #0" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ #0  HD 
+#EXTINF:-1 tvg-id="Movistar Plus+" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Movistar Plus+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hGjuu5XYQYyoXfaiOB+2TQ","k":"AIdIpqy7s0kb9d1JNV2CBw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Movistar Plus+ 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TU7Z9FsWQJaKlWnUjLaNZA","k":"BNmbiXzBaYOVCl9LDHLWmA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Divinity" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Divinity
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yVUuBRWyR3edLCBNwS9GtQ","k":"ryuUK1CcJk20ubXJ4iNcMg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nova" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Nova
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LOjDtNGbQyyUSZypHcnZlw","k":"IyoPU1bguyZyowQ+CPGK6A"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ #0" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO", M+ #0  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zGt63NHXTjetMKCXMo8ovw","k":"t+Rky6h1Gof0AFoHZvR8Sg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Acción" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Acción  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"la901ftZT9WLhWptdDz3fw","k":"ZJQDbUJIgd4owKfJ86Ghmg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ AMC" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", AMC por M+ HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RzHxiWuxR3GvvRxxwi8qog","k":"sfpkbr4hjRlliz4xOkmFkw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ AMC Break" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", AMC Break por M+ HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XSjS7pLDRmmsTtOAy8LzFg","k":"KEo7uprKvGEJKCvYZtK4DA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ AXN Movies" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", AXN Movies por M+ HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NiexOYtxTgui2VCsI4rnLQ","k":"NQKEaed5AnGM/wTIGue+oA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ AXN" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",AXN  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XGfBO8PEQrCS5JBssBs0Tw","k":"0v3A8NrL5hgKR5UmZX16bw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ AXN White" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",AXN White  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Edlz8+jZS/SXRN/nDIWGpw","k":"iXJI0nYw5bNbN+WqOmAMHQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://whiteaxn-dash-movistarplus.emisiondof6.com/dash/whiteaxn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="BOM Cine" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", BOM Cine  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ex+LUCDlRMSin71mnQOrUQ","k":"ZYCqoZeKSJffeK4jIlxQbA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://bomcine-dash-movistarplus.emisiondof6.com/dash/bomcine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ C MORE" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",C MORE  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0JTRQB+qXNKc+zYSdGKarQ","k":"eT079+FukwDAKY+ys7pvaA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",Calle 13  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NiexOYtxTgui2VCsI4rnLQ","k":"NQKEaed5AnGM/wTIGue+oA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M + Canal Cocina" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",Canal Cocina  HD 
+#EXTINF:-1 tvg-id="M + Canal Cocina" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Cocina  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QHTtOl01QdaLmgajkcUZ6g","k":"AhWlCPOSXLmKt75k9+Vaug"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M + Caza y Pesca" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",Caza y Pesca  HD 
+#EXTINF:-1 tvg-id="M + Caza y Pesca" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Caza y Pesca  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4IgUoz5IQtKcttTPl69vNg","k":"TUDediQAAvbw37zNXhRUdg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Comedia" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Comedia  HD 
+#EXTINF:-1 tvg-id="M+ El Toro TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",El Toro TV 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7L3jQA9DTROM+s4CqKt8qw","k":"FLvYGsC44wzcHXtmRedXmg"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUP7SWObSsOlMlGEi87vPA","k":"S3DIKRzsqtQ1CILRpkrqlg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
+https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Clásicos" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Clásicos  HD 
+#EXTINF:-1 tvg-id=" M + Canal Decasa" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Decasa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MWf1sdypS9OUZbOopClQaQ","k":"7JxdGlQ1zPRyMRBefTHAug"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CnSJ93veT2KGejutkj5UmA","k":"RS8vNJICQIq7CTbJK9ILdg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
+https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ COSMO" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",COSMO  HD 
+#EXTINF:-1 tvg-id="M+ Enfamilia" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Enfamilia  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RA0lH7CnQsa6EY4d0Nhv/g","k":"fJxXdCOuDuK8Zy8QsAiZaQ"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWm5tdUJTpWyhfbxDke4XQ","k":"O912lS6wM5zEcPUOEGf19w"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
+https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Comedy Central" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",Comedy Central  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Edlz8+jZS/SXRN/nDIWGpw","k":"iXJI0nYw5bNbN+WqOmAMHQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DARK" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", DARK  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C6rcWoqfTTmAj/LdPTacew","k":"9wdiI4uyKMhbglRZ577Vpw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Drama  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OhQDGgYTOOPQpUkXtMc/g","k":"ZbKflv8HfUV2ZU7FvgBs+Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Estrenos" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Estrenos  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7HwY40/Suyjejx6avL+9g","k":"yNPSclyn+yOwZUgwqjIvKg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://estrenos-dash-movistarplus.emisiondof6.com/dash/estrenos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Estrenos 2" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Estrenos 2  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gPPPlJMKS9+exqpy6UfEyg","k":"nHcrIRfnqjlbaeDooSAIGQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mestreno2-dash-movistarplus.emisiondof6.com/dash/mestreno2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Fest" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Fest  HD 
+#EXTINF:-1 tvg-id="M+ Fest" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO", Fest  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xUMAuwR7TD6bdUL/i3Zsxw","k":"WH24QmgGU0Cvf/okshhJlw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mfest-dash-movistarplus.emisiondof6.com/dash/mfest.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Fox" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",Fox  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ReQWOaC5RT+bJgy50DJjaQ","k":"8DWMaA/8RpBAB95GE4jfKA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Popup" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Popup  HD 
+#EXTINF:-1 tvg-id="M+ Popup" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Popup  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4+CwRxYwSX64H8F/OaUiGA","k":"T0RVhmTj78GBG3zoi+tZeg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", M+ Cine Español  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qrD82TEUTkif/0b4D6mAmA","k":"1ocTvZeGssLPRbBHjuHpHw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="La Resistencia" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", M+ La Resistencia  HD 
+#EXTINF:-1 tvg-id="La Resistencia" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO", M+ La Resistencia  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Fz2ZGRXyShG2es0MdZFDcA","k":"TvgkX3IAE4VPCWz//Y4QKA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", M+ Tcm  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0jnq7BHUTcSej3SvDnMwpw","k":"t5GoRH0DDXhV+eIxiGy5cw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hollywood" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", M+ Hollywood  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hgKTWAzcQY2ywRkLKLKIiQ","k":"3McD480rn2c3nBFlWWzFmA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="XTRM" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", XTRM  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2CHa1OYsTcaV4f94GaNlbg","k":"v3dHw/HNStlPRh6D1cWIjA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Sundance" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", Sundance  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AJhaKp9yTwe30dQz1SvSFg","k":"Xt/XZ1Rm8xuHFX7h9p1fEA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Somos" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", Somos  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3nZn0680QLuzWahveqIVGw","k":"SBnCxWGpGMeYlY77iCjT1Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR", Paramount Channel  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gt6FALVaSmqhin2XtSXJPw","k":"8b6zn12Pz5lukyhwlusNJQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Series" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",M+ Series  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CfMf0/xYQCmzEOjkiR4ZTA","k":"eu1x3O6kSvctlEw7V7AJrg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Series 2" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",M+ Series 2  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z6vaVEz7SUSaMfqmRPVHkQ","k":"g3DszU06gAnVg6ClVfVKHA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://m2series-dash-movistarplus.emisiondof6.com/dash/m2series.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ TNT" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",TNT  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zcyShbmwQnCXepJ4vWsRaA","k":"/ckswrp34MEG+YoxQ/pPVw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tnt-dash-movistarplus.emisiondof6.com/dash/tnt.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ SYFY" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR",SYFY  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C1InwRD8SvW1Buamx3kdoQ","k":"/OhjttrwqRkNuF7O3iSB9g"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ #Vamos" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", Vamos por M+ HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -774,6 +620,342 @@ https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fNpRyAvlRsefwbMnmhy7cA","k":"8VvXXOH07wTtQt9Kg6TeWg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Música" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",M+ Música
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xUMAuwR7TD6bdUL/i3Zsxw","k":"WH24QmgGU0Cvf/okshhJlw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="MTV" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",MTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DGkt4keOS3eFl3gdD84UNQ","k":"Gh5HYKoiL3YiIqhT4Ycmxw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="MTV 00s" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",MTV 00s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+b3qzfHwQlOvutxsAYApxQ","k":"5mu2ieO37vY640dpUqcY3g"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mezzo" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",Mezzo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0CaN3xZ2SButP6zcG6JGyA","k":"wO//vG3YOBGitibs2ub8fw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mezzo Live" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",Mezzo Live
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ai1HJlz1Q3yyD030R2DYKw","k":"VMU7M7PMZgPzcbqQFUai7A"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Baby TV" group-title="MOVISTAR MUSICA" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUSICA",Baby TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KiVGGgXfQm6KWUiETnc+8A","k":"1f3+kasEgxHbImhEKMpdxw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="NICK JR" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",NICK JR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QmebYDSwTTufaVQ/TiyYyw","k":"hYVc43YT0ag4RtSlNfN1LQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Disney Junior" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Disney Junior
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xqFl3sjWTBuefE8TZBOE2w","k":"AEbRLKAasQr2AtxAG9cPqw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FizdXWkmSM6MHmMo0caOxw","k":"HfWm9hiN2b58hvBclQHgiA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TAaf2C2+SsmKp0eTIsVfAw","k":"pymJOPYGiPNXWrm0HaV3Bw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Disney Channel" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BnUnuLDZQX6rXfiyxEzOkw","k":"3LM8G5xriWRlDgjDO5CQdA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Boing" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Boing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OBMt+9HrQHONmkdPfg3k4w","k":"JGDQZg/l5njyFYJTQRpvNQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Cine
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7HwY40/Suyjejx6avL+9g","k":"yNPSclyn+yOwZUgwqjIvKg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Clásicos" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Clásicos
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MWf1sdypS9OUZbOopClQaQ","k":"7JxdGlQ1zPRyMRBefTHAug"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Acción" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Acción
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MWf1sdypS9OUZbOopClQaQ","k":"7JxdGlQ1zPRyMRBefTHAug"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Acción" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Acción 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"la901ftZT9WLhWptdDz3fw","k":"ZJQDbUJIgd4owKfJ86Ghmg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Comedia" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Comedia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7L3jQA9DTROM+s4CqKt8qw","k":"FLvYGsC44wzcHXtmRedXmg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Drama 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OhQDGgYTOOPQpUkXtMc/g","k":"ZbKflv8HfUV2ZU7FvgBs+Q"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Suspense" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Suspense 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8UAsnP9kToSdpVz7kvJGew","k":"_xJFg3Tm8Bw7cQYx3yC62w"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Cine Español 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qrD82TEUTkif/0b4D6mAmA","k":"1ocTvZeGssLPRbBHjuHpHw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine Terror" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Terror 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4+CwRxYwSX64H8F/OaUiGA","k":"T0RVhmTj78GBG3zoi+tZeg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine Originales" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Originales
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ewdc75TiTKKbTvVhShoRkg","k":"k0iMNJenxoSGGH21bvq6SQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Series" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Series 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CfMf0/xYQCmzEOjkiR4ZTA","k":"eu1x3O6kSvctlEw7V7AJrg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Series 2" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Series 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z6vaVEz7SUSaMfqmRPVHkQ","k":"g3DszU06gAnVg6ClVfVKHA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://m2series-dash-movistarplus.emisiondof6.com/dash/m2series.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", M+ Tcm  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0jnq7BHUTcSej3SvDnMwpw","k":"t5GoRH0DDXhV+eIxiGy5cw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ AMC" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", AMC por M+ HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RzHxiWuxR3GvvRxxwi8qog","k":"sfpkbr4hjRlliz4xOkmFkw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ AMC Break" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", AMC Break por M+ HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XSjS7pLDRmmsTtOAy8LzFg","k":"KEo7uprKvGEJKCvYZtK4DA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ AXN Movies" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", AXN Movies por M+ HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NiexOYtxTgui2VCsI4rnLQ","k":"NQKEaed5AnGM/wTIGue+oA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",AXN  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XGfBO8PEQrCS5JBssBs0Tw","k":"0v3A8NrL5hgKR5UmZX16bw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ AXN White" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",AXN White  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Edlz8+jZS/SXRN/nDIWGpw","k":"iXJI0nYw5bNbN+WqOmAMHQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://whiteaxn-dash-movistarplus.emisiondof6.com/dash/whiteaxn.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BOM Cine" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", BOM Cine  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ex+LUCDlRMSin71mnQOrUQ","k":"ZYCqoZeKSJffeK4jIlxQbA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://bomcine-dash-movistarplus.emisiondof6.com/dash/bomcine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ C MORE" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",C MORE  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0JTRQB+qXNKc+zYSdGKarQ","k":"eT079+FukwDAKY+ys7pvaA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",Calle 13  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NiexOYtxTgui2VCsI4rnLQ","k":"NQKEaed5AnGM/wTIGue+oA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", Paramount Channel  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gt6FALVaSmqhin2XtSXJPw","k":"8b6zn12Pz5lukyhwlusNJQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ TNT" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",TNT  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zcyShbmwQnCXepJ4vWsRaA","k":"/ckswrp34MEG+YoxQ/pPVw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://tnt-dash-movistarplus.emisiondof6.com/dash/tnt.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ SYFY" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",SYFY  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C1InwRD8SvW1Buamx3kdoQ","k":"/OhjttrwqRkNuF7O3iSB9g"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DARK" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", DARK  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C6rcWoqfTTmAj/LdPTacew","k":"9wdiI4uyKMhbglRZ577Vpw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Drama  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OhQDGgYTOOPQpUkXtMc/g","k":"ZbKflv8HfUV2ZU7FvgBs+Q"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Estrenos" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Estrenos  HD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7HwY40/Suyjejx6avL+9g","k":"yNPSclyn+yOwZUgwqjIvKg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://estrenos-dash-movistarplus.emisiondof6.com/dash/estrenos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Estrenos 2" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Estrenos 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gPPPlJMKS9+exqpy6UfEyg","k":"nHcrIRfnqjlbaeDooSAIGQ"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mestreno2-dash-movistarplus.emisiondof6.com/dash/mestreno2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Fox" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",Fox  
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ReQWOaC5RT+bJgy50DJjaQ","k":"8DWMaA/8RpBAB95GE4jfKA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Somos" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", Somos 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3nZn0680QLuzWahveqIVGw","k":"SBnCxWGpGMeYlY77iCjT1Q"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hollywood" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", M+ Hollywood  
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hgKTWAzcQY2ywRkLKLKIiQ","k":"3McD480rn2c3nBFlWWzFmA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="XTRM" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", XTRM  
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2CHa1OYsTcaV4f94GaNlbg","k":"v3dHw/HNStlPRh6D1cWIjA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sundance" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", Sundance 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AJhaKp9yTwe30dQz1SvSFg","k":"Xt/XZ1Rm8xuHFX7h9p1fEA"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BE MAD" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES", BE MAD 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9HF2/2WbTf+fpsA/6+MpOw","k":"2H23g8bh02J/mOD2+7J5Xg"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",Warner TV 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zcyShbmwQnCXepJ4vWsRaA","k":"/ckswrp34MEG+YoxQ/pPVw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Energy" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",Energy 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUCTr0EcQNmSTuDYa7wYsQ","k":"ubQC/xCL8+Sk3uusMcQ15Q"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Golf" group-title="MOVISTAR GOLF" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR GOLF",M+ Golf HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
