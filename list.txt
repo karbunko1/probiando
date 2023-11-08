@@ -225,6 +225,13 @@ https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="COSMO" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="43" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/COSMO"group-title="00. MOVISTAR ENTRETENIMIENTO" , COSMO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969
+https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="M + Canal Cocina" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://canalcocina.es/images/canalcocina.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Cocina  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
