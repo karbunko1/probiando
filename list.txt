@@ -141,6 +141,13 @@ https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="00. TDT",LaOtra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
+https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
+
 #EXTINF:-1 tvg-id="Canal Sur" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg" group-title="00. MOVISTAR CANALES AUTONOMICOS", Canal Sur
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -240,6 +247,13 @@ http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUP7SWObSsOlMlGEi87vPA","k":"S3DIKRzsqtQ1CILRpkrqlg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="EL TORO TV" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO",EL TORO TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
 https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
@@ -507,6 +521,34 @@ https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeones.isml/mani
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QIgb6o0nTZSOEoBr/w1LHg","k":"LFBw374S84efBXfE6rE+Vg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://13campeones-dash-movistarplus.emisiondof6.com/dash/13campeones.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 14" group-title="MOVISTAR LIGA DE CAMPEONES" ch-number="189" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP14" group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones 14
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=599f4a42681e47dbae61f8787b6937ee:cc4e347800cc407acfb4c5b4a193edff
+https://14campeones-dash-movistarplus.emisiondof6.com/dash/14campeonesor.isml/manifest.mpd 
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 15" group-title="MOVISTAR LIGA DE CAMPEONES" ch-number="189" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP15" group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones 15
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=219886d081b641c3a7ff629285a8f424:26df42847064f44e4136cc34d60988d6
+https://15campeones-dash-movistarplus.emisiondof6.com/dash/15campeonesor.isml/manifest.mpd 
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 16" group-title="MOVISTAR LIGA DE CAMPEONES" ch-number="190" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP16" group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb73c76ad5e94594b7c21873e69ed861:8c6168b7b3be97fb73e03ddb11c19f3c
+https://16campeones-dash-movistarplus.emisiondof6.com/dash/16campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 17" group-title="MOVISTAR LIGA DE CAMPEONES" ch-number="190" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP17" group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones 17
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a269d28686f451db913ccadef58e9ac:8f72a76b699a2a5ff35058f36c14b421
+https://17campeones-dash-movistarplus.emisiondof6.com/dash/17campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="DAZN 1 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png"  group-title="00. MOVISTAR DAZN ",DAZN 1 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
