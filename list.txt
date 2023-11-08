@@ -260,7 +260,7 @@ https://horsetv-dash-movistarplus.emisiondof6.com/dash/horsetv.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Enfamilia" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Enfamilia  HD 
+#EXTINF:-1 tvg-id="M+ Enfamilia" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Enfamilia  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWm5tdUJTpWyhfbxDke4XQ","k":"O912lS6wM5zEcPUOEGf19w"}]}
@@ -375,12 +375,14 @@ https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="GOL PLAY" group-title=" MOVISTAR DEPORTE" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR DEPORTE",GOL PLAY
+#EXTINF:-1 tvg-id="GOL PLAY" group-title=" MOVISTAR DEPORTE" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg"  group-title="00. MOVISTAR DEPORTE",GOL PLAY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"giq3OeAgT2uG8N2oUnUrfQ","k":"VzWj92fIRLL/QSjXeIN5pA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png"  group-title="00. MOVISTAR LALIGA",M+ LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -745,7 +747,7 @@ https://mmusica-dash-movistarplus.emisiondof6.com/dash/mmusica.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DGkt4keOS3eFl3gdD84UNQ","k":"Gh5HYKoiL3YiIqhT4Ycmxw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
+https://mtv-dash-movistarplus.emisiondof6.com/dash/mtvor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="MTV 00s" group-title="MOVISTAR MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"  group-title="00. MOVISTAR MUSICA",MTV 00s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -775,7 +777,7 @@ https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://solmusica-dash-movistarplus.emisiondof6.com/dash/solmusicaor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canal Panda" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png"  group-title="00. MOVISTAR CANALES NIÑOS",Canal Panda
+#EXTINF:-1 tvg-id="Canal Panda" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Canal Panda
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWm5tdUJTpWyhfbxDke4XQ","k":"O912lS6wM5zEcPUOEGf19w"}]}
