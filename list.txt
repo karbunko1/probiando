@@ -113,6 +113,13 @@ https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdttelemadrid-dash-movistarplus.emisiondof6.com/dash/tdttelemadrid.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="DKISS" group-title="TDT" ch-number="94" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS" group-title="00. TDT" ,DKISS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31d3c8de4f46404d96855a84b3568ea1:72d1c888c7ccb4bb2bb10e61fd241a5b
+https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="Movistar Plus+" group-title="TDT" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. TDT", Movistar Plus+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -204,6 +211,11 @@ https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdttvcanarias-dash-movistarplus.emisiondof6.com/dash/tdttvcanarias.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Esport3 CAT" group-title="MOVISTAR CANALES AUTONOMICOS" ch-number="164" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP3" group-title=" 00. MOVISTAR CANALES AUTONOMICOS",Esport3 CAT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+
 #EXTINF:-1 tvg-id="EITB Basque" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" group-title="00. MOVISTAR CANALES AUTONOMICOS", ETB Basque
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -249,12 +261,67 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR MUNDO TORO",OneToro TV HD
 http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 
-#EXTINF:-1 tvg-id="EL TORO TV" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO",EL TORO TV
+#EXTINF:-1 tvg-id="EL TORO TV" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO" group-title="00. MOVISTAR MUNDO TORO" ,EL TORO TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
 https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BBC WORLD NEWS EUROPE HD" group-title="MOVISTAR NOTICIAS" ch-number="128" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="00 MOVISTAR NOTICIAS" ,BBC WORLD NEWS EUROPE HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca46a26617cf4249868b9add6e64123d:124947113dd855fdd2029be348b9d79b
+https://worldbbc-dash-movistarplus.emisiondof6.com/dash/worldbbc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNN INT." group-title="MOVISTAR NOTICIAS" ch-number="129" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CNN" group-title="00. MOVISTAR NOTICIAS" ,CNN INT.
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37a46881d0944afa8ea10942555a5267:74fd02872ff974f8f38a9ff3845eaa5b
+https://intcnn-dash-movistarplus.emisiondof6.com/dash/intcnnor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="FOX NEWS" group-title="MOVISTAR NOTICIAS" ch-number="130" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FOXNWS" group-title="00. MOVISTAR NOTICIAS" ,FOX NEWS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7a4ac8d75a047e1baea5a4453664325:5287f24cc620f6f187a7b93d31be80d4
+https://newsfox-dash-movistarplus.emisiondof6.com/dash/newsfoxor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="EURONEWS" group-title="MOVISTAR NOTICIAS" ch-number="131" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENW" group-title="00. MOVISTAR NOTICIAS" ,EURONEWS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f73028292d14b9082934b435e5587eb:16260268d1cd7e58592735c7110b1895
+https://1euronews-dash-movistarplus.emisiondof6.com/dash/1euronewsor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AL JAZEERA ENGLISH" group-title="MOVISTAR NOTICIAS" ch-number="132" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ALJAZE" group-title="00. MOVISTAR NOTICIAS" ,AL JAZEERA ENGLISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 tvg-id="France 24 (en Francais)" group-title="MOVISTAR NOTICIAS" ch-number="133" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FRANCE" group-title="00. MOVISTAR NOTICIAS" ,France 24 (en Francais)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b0a5b94536547948f81c8c0e36df042:8051a12830194b600660fd10e944880b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FRANCE24)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNBC EUROPE" group-title="MOVISTAR NOTICIAS" ch-number="136" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NBC" group-title="00. MOVISTAR NOTICIAS" ,CNBC EUROPE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/CNBC/index.mpd
+
+#EXTINF:-1 tvg-id="TV5MONDE EUROPE" group-title="MOVISTAR NOTICIAS" ch-number="137" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TV5" group-title="00. MOVISTAR NOTICIAS" ,TV5MONDE EUROPE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:-1 tvg-id="BLOOMBERG EUROPE TV" group-title="MOVISTAR NOTICIAS" ch-number="138" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BL" group-title="00. MOVISTAR NOTICIAS",BLOOMBERG EUROPE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
