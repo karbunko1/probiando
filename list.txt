@@ -246,7 +246,7 @@ https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://toros-dash-movistarplus.emisiondof6.com/dash/toros.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
+#EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hGuftSYqR9WU7/g7iPVzYQ","k":"YVUSv7YZz4/yDb/3YAxeHw"}]}
@@ -267,7 +267,7 @@ https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Fest" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO", Fest  HD 
+#EXTINF:-1 tvg-id="M+ Fest" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/640px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR ENTRETENIMIENTO", Fest  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xUMAuwR7TD6bdUL/i3Zsxw","k":"WH24QmgGU0Cvf/okshhJlw"}]}
@@ -305,14 +305,14 @@ https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR ENTRETENIMIENTO",OneToro TV HD
 http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 
-#EXTINF:-1 tvg-id="M+ #Vamos" group-title="MOVISTAR" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR", Vamos por M+ HD 
+#EXTINF:-1 tvg-id="M+ #Vamos" group-title="MOVISTAR" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901775194689618/unknown.png" group-title="00. MOVISTAR", Vamos por M+ HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"d7fl6LY1S/iSWvDd0kr+vQ","k":"Y17UlNmQRmApuWgcfZgRQw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Ellas #V " group-title=" MOVISTAR DEPORTE" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR DEPORTE",M+ Ellas #V HD 
+#EXTINF:-1 tvg-id="M+ Ellas #V " group-title=" MOVISTAR DEPORTE" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901859567317142/unknown.png"  group-title="00. MOVISTAR DEPORTE",M+ Ellas #V HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vEV9E+g1Tjuj/kZ9/lMV7Q","k":"Ort/uBBtqJgl2rV/0cLiTg"}]}
@@ -368,7 +368,7 @@ https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Real Madrid TV" group-title=" MOVISTAR DEPORTE" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR DEPORTE",Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV" group-title=" MOVISTAR DEPORTE" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/r/e/a/realmadrid-tv.jpg"  group-title="00. MOVISTAR DEPORTE",Real Madrid TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"waR3lPvMQVaTt2WJlGDmOQ","k":"alXCPuvxKG0o1T65TWQNeA"}]}
@@ -550,28 +550,28 @@ https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="MOVISTAR HYPERMOTION" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NCQFah+kRu+fkbOcWNUiMQ","k":"V4k7jhr1b3Cmx4dBLYyCaw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="MOVISTAR HYPERMOTION" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 2
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=702"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"L8d8XgM/RcqHT9wPKOeSAA","k":"MQUqPQxc1wk05ROa5XkCNQ"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2msegdiv-dash-movistarplus.emisiondof6.com/dash/2msegdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="MOVISTAR HYPERMOTION" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 3
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=703"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hybufQncQaaIraXfScCOoQ","k":"jOCQq0DlrzIBVCJ3X7G8XA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://3msegdiv-dash-movistarplus.emisiondof6.com/dash/3msegdiv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" group-title="MOVISTAR HYPERMOTION" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 4
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=704"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1Hj4QYqmT5upUKuXg2Qehw","k":"iNxxNBWlS+4I7HY/y+/oaA"}]}
@@ -592,14 +592,14 @@ https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-id="Canal+ Formula 1" group-title="DAZN FORMULA 1" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png"  group-title="00. DAZN FORMULA 1",Canal+ Formula 1 HD 
+#EXTINF:-1 tvg-id="Canal+ Formula 1" group-title="DAZN FORMULA 1" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/04/14110121/Canal-Formula-1.jpg"  group-title="00. DAZN FORMULA 1",Canal+ Formula 1 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"83A5lln1SVSoCg5Tx6h7QA,k8KJNVWiQFmKSgrkDrQH1Q,Kz7KkJPoTrOUGuw5YS3IFA,SCAy5NVMSGmIFNGZWj9FLA","k":"yU/YwwPbyfZBWsJ0TtkhEw,rHAAoGyMfsCzOIHXBRrcVg,l+LT4AN7A5Sz1SrSOTA40Q,aS/xMB111sb3VvwxGX//mg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd
 
-#EXTINF:-1 tvg-id="Canal+ MotoGP" group-title="MOVISTAR MOTOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MOTOS",Canal+ MotoGP HD 
+#EXTINF:-1 tvg-id="Canal+ MotoGP" group-title="MOVISTAR MOTOS" tvg-logo="https://moto-station.com/wp-content/uploads/2018/04/26/canal_motogp.jpg" group-title="00. MOVISTAR MOTOS",Canal+ MotoGP HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G08viW+5SSONxh5MTL7MoA,VvnidLoDQ7WccJeHalCJNA,DaxVli4CRLemVAjPjlw8Gg,V10ZSYewS0GRnWdOQ8+lmw","k":"ULcqn0gVehZRR4Uor6E4MA,7NJma2TsF2zQXsEeKyVISQ,DCOgSVYSnNWolxSK7dPsOg,Ae2PAvRQL47PXZvizr1BsA"}]}
@@ -619,6 +619,14 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Qm1iEVJrS/KaDrAhuCHkRA","k":"JdHXr42IGfLPcXyOTGGN3w"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluenovasport1/Manifest.mpd
+
+#EXTINF:-1 tvg-id="Ubeat" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="MOVISTAR OTROS DEPORTES" +",Ubeat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F3EdeIDmqdiWV5El0zQnvw", "kid":"ShPsGfOaR9qW1ndRHtwBFg" } ], "type":"temporary" }
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Redbull TV" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR OTROS DEPORTES",Redbull TV 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -648,14 +656,14 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1 (ES)" group-title="MOVISTAR EUROSPORT (ES)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR EUROSPORT",Eurosport 1 (ES)
+#EXTINF:-1 tvg-id="Eurosport 1 (ES)" group-title="MOVISTAR EUROSPORT (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png"  group-title="00. MOVISTAR EUROSPORT",Eurosport 1 (ES)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2 (ES)" group-title="MOVISTAR EUROSPORT (ES)" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR EUROSPORT",Eurosport 2 (ES)
+#EXTINF:-1 tvg-id="Eurosport 2 (ES)" group-title="MOVISTAR EUROSPORT (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png"  group-title="00. MOVISTAR EUROSPORT",Eurosport 2 (ES)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
@@ -767,7 +775,7 @@ https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://solmusica-dash-movistarplus.emisiondof6.com/dash/solmusicaor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canal Panda" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CANALES NIÑOS",Canal Panda
+#EXTINF:-1 tvg-id="Canal Panda" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png"  group-title="00. MOVISTAR CANALES NIÑOS",Canal Panda
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWm5tdUJTpWyhfbxDke4XQ","k":"O912lS6wM5zEcPUOEGf19w"}]}
@@ -823,42 +831,42 @@ https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Indie" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Indie
+#EXTINF:-1 tvg-id="M+ Indie" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/250px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Indie
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7HwY40/Suyjejx6avL+9g","k":"O/RKzAS7pUeSB9KLKO3veA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Cine
+#EXTINF:-1 tvg-id="M+ Cine" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n7HwY40/Suyjejx6avL+9g","k":"yNPSclyn+yOwZUgwqjIvKg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Clasicos" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Clasicos
+#EXTINF:-1 tvg-id="M+ Clasicos" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Clasicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MWf1sdypS9OUZbOopClQaQ","k":"7JxdGlQ1zPRyMRBefTHAug"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Acción" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Acción 
+#EXTINF:-1 tvg-id="M+ Acción" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Acción 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"la901ftZT9WLhWptdDz3fw","k":"ZJQDbUJIgd4owKfJ86Ghmg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Comedia" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Comedia
+#EXTINF:-1 tvg-id="M+ Comedia" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7L3jQA9DTROM+s4CqKt8qw","k":"FLvYGsC44wzcHXtmRedXmg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Drama 
+#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Drama 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OhQDGgYTOOPQpUkXtMc/g","k":"ZbKflv8HfUV2ZU7FvgBs+Q"}]}
@@ -872,7 +880,7 @@ https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Cine Español 
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Cine Español 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qrD82TEUTkif/0b4D6mAmA","k":"1ocTvZeGssLPRbBHjuHpHw"}]}
@@ -886,14 +894,14 @@ https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Originales" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Originales
+#EXTINF:-1 tvg-id="M+ Cine Originales" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Originales
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ewdc75TiTKKbTvVhShoRkg","k":"k0iMNJenxoSGGH21bvq6SQ"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Series" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Series 
+#EXTINF:-1 tvg-id="M+ Series" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Series 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CfMf0/xYQCmzEOjkiR4ZTA","k":"eu1x3O6kSvctlEw7V7AJrg"}]}
@@ -928,14 +936,14 @@ https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ AXN Movies" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", AXN Movies por M+ HD 
+#EXTINF:-1 tvg-id="M+ AXN Movies" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" group-title="00. MOVISTAR CINE-SERIES", AXN Movies por M+ HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NiexOYtxTgui2VCsI4rnLQ","k":"NQKEaed5AnGM/wTIGue+oA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",AXN  HD 
+#EXTINF:-1 tvg-id="M+ AXN" group-title="MOVISTAR CINE-SERIES"  tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg"  group-title="00. MOVISTAR CINE-SERIES",AXN  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XGfBO8PEQrCS5JBssBs0Tw","k":"0v3A8NrL5hgKR5UmZX16bw"}]}
@@ -963,7 +971,7 @@ https://bomcine-dash-movistarplus.emisiondof6.com/dash/bomcine.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",Calle 13  HD 
+#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",Calle 13  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Edlz8+jZS/SXRN/nDIWGpw","k":"iXJI0nYw5bNbN+WqOmAMHQ"}]}
@@ -1061,14 +1069,14 @@ https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Golf" group-title="MOVISTAR GOLF" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR GOLF",M+ Golf HD 
+#EXTINF:-1 tvg-id="M+ Golf" group-title="MOVISTAR GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="00. MOVISTAR GOLF",M+ Golf HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/5+WsPdkQh+4Tfnmur5F6A","k":"XZWxWj6CHXM9CaqC+qz72w"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Golf 2" group-title="MOVISTAR GOLF" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR GOLF",M+ Golf 2 HD 
+#EXTINF:-1 tvg-id="M+ Golf 2" group-title="MOVISTAR GOLF" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg"  group-title="00. MOVISTAR GOLF",M+ Golf 2 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aA4MRn54R2Kz7jkCz9Cj/w","k":"UYcOUgAqg51v4HYbdvNHFg"}]}
