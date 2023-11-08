@@ -232,7 +232,6 @@ https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
-
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR MUNDO TORO",OneToro TV HD
 http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 
@@ -242,13 +241,6 @@ http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUP7SWObSsOlMlGEi87vPA","k":"S3DIKRzsqtQ1CILRpkrqlg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Toros" group-title="MOVISTAR MUNDO TORO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR MUNDO TORO",M+ Toros
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ieKA12VpRPKDncpXTh7Xeg","k":"lyKsBod7YEBBqefrRIL+Vw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://toros-dash-movistarplus.emisiondof6.com/dash/toros.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -382,8 +374,6 @@ https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"giq3OeAgT2uG8N2oUnUrfQ","k":"VzWj92fIRLL/QSjXeIN5pA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png"  group-title="00. MOVISTAR LALIGA",M+ LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1085,43 +1075,4 @@ https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aA4MRn54R2Kz7jkCz9Cj/w","k":"UYcOUgAqg51v4HYbdvNHFg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="DAZN Eleven 1 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 1 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-logo="DAZN Eleven 2 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 2 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-logo=" DAZN Eleven 3 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 3 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-logo="DAZN Eleven 4 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 4 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-logo="DAZN Eleven 5 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 5 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-logo="DAZN Eleven 6 (POR)" group-title="DAZN PORTUGAL" tvg-id="",DAZN Eleven 6 (POR)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=47785250632b622b2f70484e426668513472574a3041
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
-
-
-
 
