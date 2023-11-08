@@ -242,13 +242,6 @@ https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manife
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR MUNDO TORO",OneToro TV HD
 http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 
-#EXTINF:-1 tvg-id="M+ El Toro TV" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://eltorotv.com/wp-content/uploads/2023/06/LOGO_ETV.png"  group-title="00. MOVISTAR MUNDO TORO",El Toro TV 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DUP7SWObSsOlMlGEi87vPA","k":"S3DIKRzsqtQ1CILRpkrqlg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
-
 #EXTINF:-1 tvg-id="EL TORO TV" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO",EL TORO TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
