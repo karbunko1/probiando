@@ -330,6 +330,23 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
+#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV" group-title="00. MOVISTAR ENTRETENIMIENTO",Canal de las estrellas TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=940a71d465f34a76d17f66bb84ecd749:309d63d8795189c775b45771c3d4a414
+https://ott.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_enc/CANAL_DE_LAS_ESTRELLAS.mpd
+
+#EXTINF:-1 tvg-id="Arirang TV" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="145" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARIRHD" group-title="00. MOVISTAR ENTRETENIMIENTO",Arirang TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cubavision" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="147" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CUBAV", group-title="00. MOVISTAR ENTRETENIMIENTO"Cubavision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
+
 #EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -505,7 +522,7 @@ https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manif
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones UHD" group-title="MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones UHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones UHD" group-title="MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAUHD"  group-title="00. MOVISTAR LIGA DE CAMPEONES",M+ Liga de Campeones UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aRsJX7r+QpGA40t1hysy7A","k":"tbM0jC5T6vOYHcy4y24/yA"}]}
@@ -863,6 +880,13 @@ https://espanamtv-dash-movistarplus.emisiondof6.com/dash/espanamtv.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Classica" group-title="MOVISTAR MUSICA" ch-number="125" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSI" group-title=" 00. MOVISTAR MUSICA",Classica
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94594a44f91419796d0011b465de529:3b97d54fd84a8aaef5fdf84140b31ba1
+https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="Mezzo" group-title="MOVISTAR MUSICA" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png"  group-title="00. MOVISTAR MUSICA",Mezzo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -982,14 +1006,14 @@ https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Suspense" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Suspense 
+#EXTINF:-1 tvg-id="M+ Suspense" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSUSP" group-title="00. MOVISTAR CINE-SERIES", M+ Suspense 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8UAsnP9kToSdpVz7kvJGew","k":"_xJFg3Tm8Bw7cQYx3yC62w"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES", M+ Cine Español 
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCESP" group-title="00. MOVISTAR CINE-SERIES", M+ Cine Español 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qrD82TEUTkif/0b4D6mAmA","k":"1ocTvZeGssLPRbBHjuHpHw"}]}
@@ -1038,7 +1062,7 @@ https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ AMC Break" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="00. MOVISTAR CINE-SERIES", AMC Break por M+ HD 
+#EXTINF:-1 tvg-id="M+ AMC Break" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BIOGRA" group-title="00. MOVISTAR CINE-SERIES", AMC Break por M+ HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XSjS7pLDRmmsTtOAy8LzFg","k":"KEo7uprKvGEJKCvYZtK4DA"}]}
@@ -1080,7 +1104,7 @@ https://bomcine-dash-movistarplus.emisiondof6.com/dash/bomcine.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",Calle 13  HD 
+#EXTINF:-1 tvg-id="M+ Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CL13"  group-title="00. MOVISTAR CINE-SERIES",Calle 13  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Edlz8+jZS/SXRN/nDIWGpw","k":"iXJI0nYw5bNbN+WqOmAMHQ"}]}
