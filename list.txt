@@ -268,7 +268,14 @@ http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 #KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
 https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="BBC WORLD NEWS EUROPE HD" group-title="MOVISTAR NOTICIAS" ch-number="128" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="00 MOVISTAR NOTICIAS" ,BBC WORLD NEWS EUROPE HD
+#EXTINF:-1 tvg-id=" M+ Toros" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR MUNDO TORO" ,M+ Toros 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eKA12VpRPKDncpXTh7Xeg","k":"lyKsBod7YEBBqefrRIL+Vw"}]}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://toros-dash-movistarplus.emisiondof6.com/dash/toros.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BBC WORLD NEWS EUROPE HD" group-title="MOVISTAR NOTICIAS" ch-number="128" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="00. MOVISTAR NOTICIAS" ,BBC WORLD NEWS EUROPE HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -351,7 +358,7 @@ https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mfest-dash-movistarplus.emisiondof6.com/dash/mfest.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Popup" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Popup  HD 
+#EXTINF:-1 tvg-id="M+ Popup" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Popup  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4+CwRxYwSX64H8F/OaUiGA","k":"T0RVhmTj78GBG3zoi+tZeg"}]}
@@ -1107,13 +1114,6 @@ https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C6rcWoqfTTmAj/LdPTacew","k":"9wdiI4uyKMhbglRZ577Vpw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Drama" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR CINE-SERIES", M+ Drama  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OhQDGgYTOOPQpUkXtMc/g","k":"ZbKflv8HfUV2ZU7FvgBs+Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Fox" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png"  group-title="00. MOVISTAR CINE-SERIES",Fox  
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
