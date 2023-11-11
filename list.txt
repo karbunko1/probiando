@@ -964,6 +964,12 @@ https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="TOONCAST" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="https://i.imgur.com/6UTSdAi.png" group-title=" 00. MOVISTAR CANALES NIÑOS",TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+
+#EXTINF:-1 tvg-id="Cartoonito" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="https://i.imgur.com/9JEnv7G.png" group-title="00. MOVISTAR CANALES NIÑOS",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u
+
 #EXTINF:-1 tvg-id="M+ Indie" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/250px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Indie
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
