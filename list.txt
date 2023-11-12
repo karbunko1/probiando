@@ -641,6 +641,45 @@ https://16campeones-dash-movistarplus.emisiondof6.com/dash/16campeonesor.isml/ma
 #KODIPROP:inputstream.adaptive.license_key=7a269d28686f451db913ccadef58e9ac:8f72a76b699a2a5ff35058f36c14b421
 https://17campeones-dash-movistarplus.emisiondof6.com/dash/17campeonesor.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Unbeaten" tvg-logo="https://www.spirit-of-metal.com/les%20goupes/U/Unbeaten/pics/logo_5788.jpg" group-title="DAZN LIVE",Unbeaten
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 IT" tvg-logo="https://i.etsystatic.com/46360592/r/il/f0bf28/5228883964/il_fullxfull.5228883964_e2ey.jpg" group-title="DAZN LIVE",DAZN 1 IT
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-name="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN ELEVEN PRO LEAGUE 1
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-name="DAZN BEIN SPORTS 1" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN BEIN SPORTS 1
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="DAZN BEIN SPORTS 2" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN BEIN SPORTS 2
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="DAZN BEIN SPORTS 3" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN BEIN SPORTS 3
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-name="DAZN COMBAT" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN COMBAT
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-name="DAZN FAST+" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN FAST+
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-name="DAZN RISE" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN RISE
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-name="DAZN WOMEN'S FOOTBALL" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",DAZN WOMEN'S FOOTBALL
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports 1" tvg-name="PLAY SPORTS 1" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",PLAY SPORTS 1
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports 2" tvg-name="PLAY SPORTS 2" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",PLAY SPORTS 2
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports 3" tvg-name="PLAY SPORTS 3" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.png" group-title="DAZN LIVE",PLAY SPORTS 3
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
 #EXTINF:-1 tvg-id="DAZN 1 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png"  group-title="00. MOVISTAR DAZN ",DAZN 1 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
