@@ -378,7 +378,14 @@ https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
-https://cache2.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd  
+https://cache2.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd
+
+#EXTINF:-1 tvg-id="De Telenovelas" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Telenovelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4671f44116448236c23dc7813c4835:e01ba6e0304c3e0d82b3705e01607a9e
+https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.mpd  
 
 #EXTINF:-1 tvg-id="Iberalia 100% Pesca" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="74" tvg-logo="https://ver.zapitv.com/images/ch/52/LOGO/m/0" group-title="00. MOVISTAR ENTRETENIMIENTO",Iberalia 100% Pesca
 #KODIPROP:inputstream=inputstream.adaptive
@@ -790,6 +797,8 @@ https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluenovasport1/Manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="MMA" group-title="MOVISTAR OTROS DEPORTES" ch-number="41" tvg-logo="https://media.tvup.cloud/canales/color_lg_64f5868a482482bd3ffd12d0.png" group-title="00. MOVISTAR OTROS DEPORTES",MMA
+https://daiconnect.com/live/hls/tvup/tvfy-mma/.m3u8
 
 #EXTINF:-1 tvg-id="El Garage TV" group-title="MOVISTAR OTROS DEPORTES" ch-number="78" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE" group-title="00. MOVISTAR OTROS DEPORTES",El Garage TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1545,6 +1554,41 @@ https://i.mjh.nz/PlutoTV/5f1aa7aab66c76000790ee7e-alt.m3u8
 https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-chno="913" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="PLUTO TV" , iCarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
+
+#EXTINF:-1 tvg-id="M+ LaLiga UHD" group-title="MOVISTAR + 4K" ch-number="440" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH",M+ LaLiga UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e0bb7fb0aa441758a91e758bf30d829:e0b47b64161c8f96933d4e828b0e8a7e
+https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifestuhd.mpd
+
+#EXTINF:-1 tvg-id="DAZN F1 4K" group-title="MOVISTAR + 4K" ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD",DAZN F1 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
+https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
+
+#EXTINF:-1 tvg-id="M+LCAMPEONES UHD" group-title="MOVISTAR + 4K" ch-number="444" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png",M+LCAMPEONES UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=691b095fbafe429180e34b75872b32ec:b5b3348c2e53eaf3981dccb8cb6e3fc8
+https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifestuhd.mpd
+
+#EXTINF:-1 tvg-id="Canal Cocina 4K" group-title="MOVISTAR + 4K" ch-number="4" tvg-logo="https://ver.zapitv.com/images/ch/54/LOGO/m/0",Canal Cocina 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
+#EXTINF:-1 tvg-id="Decasa 4K" group-title="MOVISTAR + 4K" ch-number="7" tvg-logo="https://ver.zapitv.com/images/ch/79/LOGO/m/0",Decasa 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
+https://cache4.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
 
 #EXTINF:-1 tvg-id="M+ Golf" group-title="MOVISTAR GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="00. MOVISTAR GOLF",M+ Golf HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
