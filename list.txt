@@ -684,28 +684,28 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN LaLiga " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png"  group-title="00. MOVISTAR DAZN LALIGA",DAZN LaLiga HD 
+#EXTINF:-1 tvg-id="DAZN LaLiga " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png"  group-title="00. MOVISTAR DAZN",DAZN LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 3 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png"  group-title="00. MOVISTAR DAZN LALIGA",DAZN 3
+#EXTINF:-1 tvg-id="DAZN 3 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png"  group-title="00. MOVISTAR DAZN",DAZN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tGQYQrWCQ5Cn/o1Ox4EDHQ","k":"zRVoFe8F3Mn8w2JufVLbeQ"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN 4 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846070353866863/unknown.png"  group-title="00. MOVISTAR DAZN LALIGA",DAZN 4 
+#EXTINF:-1 tvg-id="DAZN 4 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846070353866863/unknown.png"  group-title="00. MOVISTAR DAZN",DAZN 4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q2whZDkuRg2uQUIPU/nzlg","k":"jg6hKJE1NV8K71kma9AHDg"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN 5" group-title="DAZN ESPAÑA" ch-number="175" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL5" group-title="00. MOVISTAR DAZN",DAZN 5
+#EXTINF:-1 tvg-id="DAZN 5" group-title="MOVISTAR DAZN" ch-number="175" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL5" group-title="00. MOVISTAR DAZN",DAZN 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1042,6 +1042,13 @@ https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/mani
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TAaf2C2+SsmKp0eTIsVfAw","k":"pymJOPYGiPNXWrm0HaV3Bw"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="CLAN TVE" group-title="MOVISTAR CANALES NIÑOS" ch-number="118" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV" group-title="00. MOVISTAR CANALES NIÑOS",CLAN TVE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85
+https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="MOVISTAR CANALES NIÑOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png"  group-title="00. MOVISTAR CANALES NIÑOS",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
