@@ -464,12 +464,12 @@ https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sevilla FC TV" group-title="MOVISTAR DEPORTES" ch-number="76" tvg-logo="https://ver.zapitv.com/images/ch/360/LOGO/m/0" group-title="00. MOVISTAR DEPORTES",Sevilla FC TV
+#EXTINF:-1 tvg-id="Sevilla FC TV" group-title="MOVISTAR DEPORTE" ch-number="76" tvg-logo="https://ver.zapitv.com/images/ch/360/LOGO/m/0" group-title="00. MOVISTAR DEPORTE",Sevilla FC TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://streamer.zapitv.com/sevillafc/index.mpd
 
-#EXTINF:-1 tvg-id="Betis TV" group-title="MOVISTAR DEPORTES" ch-number="77" tvg-logo="https://ver.zapitv.com/images/ch/361/LOGO/m/0" group-title="00. MOVISTAR DEPORTES",Betis TV
+#EXTINF:-1 tvg-id="Betis TV" group-title="MOVISTAR DEPORTE" ch-number="77" tvg-logo="https://ver.zapitv.com/images/ch/361/LOGO/m/0" group-title="00. MOVISTAR DEPORTE",Betis TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://streamer.zapitv.com/betis/index.mpd
