@@ -464,6 +464,16 @@ https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Sevilla FC TV" group-title="MOVISTAR DEPORTES" ch-number="76" tvg-logo="https://ver.zapitv.com/images/ch/360/LOGO/m/0" group-title="00. MOVISTAR DEPORTES",Sevilla FC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/sevillafc/index.mpd
+
+#EXTINF:-1 tvg-id="Betis TV" group-title="MOVISTAR DEPORTES" ch-number="77" tvg-logo="https://ver.zapitv.com/images/ch/361/LOGO/m/0" group-title="00. MOVISTAR DEPORTES",Betis TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/betis/index.mpd
+
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title=" MOVISTAR DEPORTE" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png"  group-title="00. MOVISTAR DEPORTE",M+ Deportes 5 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -780,15 +790,6 @@ https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluenovasport1/Manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sevilla FC TV" group-title="MOVISTAR OTROS DEPORTES" ch-number="76" tvg-logo="https://ver.zapitv.com/images/ch/360/LOGO/m/0" group-title="00. MOVISTAR OTROS DEPORTES",Sevilla FC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://streamer.zapitv.com/sevillafc/index.mpd
-
-#EXTINF:-1 tvg-id="Betis TV" group-title="MOVISTAR OTROS DEPORTES" ch-number="77" tvg-logo="https://ver.zapitv.com/images/ch/361/LOGO/m/0" group-title="00. MOVISTAR OTROS DEPORTES",Betis TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://streamer.zapitv.com/betis/index.mpd
 
 #EXTINF:-1 tvg-id="El Garage TV" group-title="MOVISTAR OTROS DEPORTES" ch-number="78" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE" group-title="00. MOVISTAR OTROS DEPORTES",El Garage TV
 #KODIPROP:inputstream=inputstream.adaptive
