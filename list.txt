@@ -57,11 +57,9 @@ https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Factoría de Ficción" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="00. TDT",Factoría de Ficción
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+
+#EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",group-title="00. TDT" Factoria de Ficcion
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -98,12 +96,8 @@ https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mega HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/megaa.png" group-title="00. TDT", Mega HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tI/Re9h7TMaXxlhm5zFO1g","k":"62G53SnOCNd9sR4yXAbvBw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Mega" group-title="TDT" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="00. TDT",MEGA
+https://tvup-live.secure.footprint.net/mega6/mega6.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="Telemadrid HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Telemadrid HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
