@@ -942,6 +942,7 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MTV España" group-title="MOVISTAR MUSICA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="00. MOVISTAR MUSICA",MTV ESPAÑA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
 #EXTINF:-1 tvg-id="Mezzo" group-title="MOVISTAR MUSICA" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png"  group-title="00. MOVISTAR MUSICA",Mezzo
@@ -1193,6 +1194,9 @@ https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="00. MOVISTAR CINE-SERIES",AXN
+http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
 
 #EXTINF:-1 tvg-id="Cines Verdi TV" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c334655ca0550022dd5bad.png" group-title="00. MOVISTAR CINE-SERIES",Cines Verdi TV
 #KODIPROP:inputstream=inputstream.adaptive
