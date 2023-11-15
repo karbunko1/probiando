@@ -1193,7 +1193,6 @@ https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="00. MOVISTAR CINE-SERIES",AXN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
 #EXTINF:-1 tvg-id="Cines Verdi TV" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c334655ca0550022dd5bad.png" group-title="00. MOVISTAR CINE-SERIES",Cines Verdi TV
