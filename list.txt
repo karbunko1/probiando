@@ -58,6 +58,9 @@ https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.m
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Factoría de Ficción" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="00. TDT",Factoría de Ficción
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
@@ -937,6 +940,9 @@ https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
 https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="MTV España" group-title="MOVISTAR MUSICA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="00. MOVISTAR MUSICA",MTV ESPAÑA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
 #EXTINF:-1 tvg-id="Mezzo" group-title="MOVISTAR MUSICA" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png"  group-title="00. MOVISTAR MUSICA",Mezzo
@@ -1185,6 +1191,9 @@ https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.m
 https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="00. MOVISTAR CINE-SERIES",AXN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
 #EXTINF:-1 tvg-id="Cines Verdi TV" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c334655ca0550022dd5bad.png" group-title="00. MOVISTAR CINE-SERIES",Cines Verdi TV
