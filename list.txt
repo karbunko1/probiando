@@ -942,7 +942,6 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MTV España" group-title="MOVISTAR MUSICA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="00. MOVISTAR MUSICA",MTV ESPAÑA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
 #EXTINF:-1 tvg-id="Mezzo" group-title="MOVISTAR MUSICA" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png"  group-title="00. MOVISTAR MUSICA",Mezzo
