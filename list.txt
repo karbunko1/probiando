@@ -429,27 +429,6 @@ https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes
-http://37.49.225.107:8080/14e17190/e84b5c0d6a/227121
-
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=5c2588&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem2.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes 2
-http://185.233.16.53:80/play/ja1126791/rYKYrecptG/538679.ts
-
-#EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes 3
-http://185.233.16.53:80/play/ja1126791/rYKYrecptG/538683.ts
-
-#EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes 4
-http://185.233.16.53:80/play/ja1126791/rYKYrecptG/538685.ts
-
-#EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png"group-title="00. MOVISTAR DEPORTES",M+ Deportes 5
-http://37.49.225.107:8080/streamnet/a8b92bb196/285690
-
-#EXTINF:-1 tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes 6
-http://185.233.16.53:80/play/ja1126791/rYKYrecptG/538691.ts
-
-#EXTINF:-1 tvg-id="M+ Deportes 7" group-title="MOVISTAR DEPORTES" tvg-logo="https://o.remove.bg/downloads/96d72bbf-90d4-41f5-9b21-03f2e83aee79/image-removebg-preview.png" group-title="00. MOVISTAR DEPORTES",M+ Deportes 7
-http://185.233.16.53:80/play/ja1126791/rYKYrecptG/538694.ts
-
 #EXTINF:-1 tvg-id="Real Madrid TV" group-title=" MOVISTAR DEPORTE" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/r/e/a/realmadrid-tv.jpg"  group-title="00. MOVISTAR DEPORTE",Real Madrid TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -487,12 +466,6 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd4
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="MOVISTAR LALIGA" tvg-logo="https://storage.googleapis.com/laligatvbar/assets/img/taquillas/bg-24h-2023-01.png" group-title="00. MOVISTAR LALIGA",LaLigaTV Bar
 https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
-
-#EXTINF:-1 tvg-id="LaLiga TV Andorra" group-title="MOVISTAR LALIGA" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" group-title="00. MOVISTAR LALIGA",LaLiga TV Andorra
-https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
-
-#EXTINF:-1 tvg-id="LaLiga TV Andorra 2" group-title="MOVISTAR LALIGA" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" group-title="00. MOVISTAR LALIGA",LaLiga TV Andorra 2
-https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
 
 #EXTINF:-1 tvg-id="M+ LaLiga 4" group-title="MOVISTAR LALIGA" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png"  group-title="00. MOVISTAR LALIGA",M+ LaLiga 4 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
