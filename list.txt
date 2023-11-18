@@ -58,8 +58,8 @@ https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.m
 https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",group-title="00. TDT" Factoria de Ficcion
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
+#EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
+httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -659,6 +659,9 @@ https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=748788c16da8454ca356eb91b93eafbc:1423e9115e2a366ac3d894aebe67669c
 https://05daznliga-dash-movistarplus.emisiondof6.com/dash/05daznliga.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="00. MOVISTAR DAZN",Dazn LaLiga 2
+http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/201
+
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -753,6 +756,9 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(GARAGETV)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-036/stream.mpd
+
+#EXTINF:-1 tvg-id="DBIKE" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20231027_005748-removebg-preview.png" group-title="00. MOVISTAR OTROS DEPORTES",DBIKE
+https://ott.zapitv.com/live/eds_c2/DBIKE/dash_live_enc/DBIKE.mpd
 
 #EXTINF:-1 tvg-id="Canal+ Premier League" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR OTROS DEPORTES",Canal+ Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
