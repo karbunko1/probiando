@@ -59,7 +59,7 @@ https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
+httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -236,6 +236,9 @@ https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969
 https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AFV Español" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="00.MOVISTAR ENTRETENIMIENTO",AFV Español
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
 
 #EXTINF:-1 tvg-id="M + Canal Cocina" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://canalcocina.es/images/canalcocina.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Cocina  HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -659,6 +662,9 @@ https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=748788c16da8454ca356eb91b93eafbc:1423e9115e2a366ac3d894aebe67669c
 https://05daznliga-dash-movistarplus.emisiondof6.com/dash/05daznliga.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="00. MOVISTAR DAZN",Dazn LaLiga 2
+http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/201
+
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -686,6 +692,14 @@ https://3msegdiv-dash-movistarplus.emisiondof6.com/dash/3msegdiv.isml/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1Hj4QYqmT5upUKuXg2Qehw","k":"iNxxNBWlS+4I7HY/y+/oaA"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://4segdiv-dash-movistarplus.emisiondof6.com/dash/4segdivor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 1
+http://50.7.168.106:8000/live/vi321198/jyfxADhbnTMB/595391.m3u8?token=H0EMV0RQRl8UVF1XAlcBAAdWBglRCFYAAg8ED1BbBQZUUFMEUQlWVQVDFRZAFkBdBw48WFASDVEMAlUBUhQXRhcGFmleXEZfFFAADANaBhpKQRdYWVUVXgUbREgKXBcJRlJdAQ8MRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFFBHRZdWApcQwlKPEhcV0ZZRgcDClxRFBw=
+#EXTINF:-1 tvg-id="FefTV 2" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 2
+http://50.7.233.26:8000/live/vi0215641/YsTRRaUeCV675/595392.m3u8?token=H0EMV0RQRl8UBQ8MUFVTAFAFWgQAAgNVAlJUCwAAUAVTUFUEUg5XVAFDFRZAFkBdBw48WFASDVEMAlUBURQXRhcGFmleXEZfFFABBAFXChpKQRdYWVUVXgUbREgKXBcJRlFdDg4NRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFBBHRZdWApcQwlKPEhcV0ZZRgQPC1BRFBw=
+#EXTINF:-1 tvg-id="FefTV 3" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 3
+http://50.7.233.26:8000/live/vi0215641/YsTRRaUeCV675/595393.m3u8?token=H0EMV0RQRl8UBwsFUFdTCVNaAABVAwUBAQ9eWQAABApWUFBQBVsHUAZDFRZAFkBdBw48WFASDVEMAlUBUBQXRhcGFmleXEZfFFABBAFXChpKQRdYWVUVXgUbREgKXBcJRlFcBQIBRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFBBHRZdWApcQwlKPEhcV0ZZRgQPClNSFBw=
+#EXTINF:-1 tvg-id="FefTV 4" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 4
 
 #EXTINF:-1 tvg-id="DAZN F1 4K" group-title="DAZN FORMULA 1" tvg-logo="https://www.neeo.es/wp-content/uploads/2021/03/DAZN-F1-4K.png"  group-title="00. DAZN FORMULA 1",DAZN F1 4K HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1023,8 +1037,8 @@ https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Cine" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="00. MOVISTAR CINE-SERIES",M+ CINE 
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61039
+#EXTINF:-1 tvg-id="M+ Cine " group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="00. MOVISTAR CINE-SERIES",M+ CINE
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
 
 #EXTINF:-1 tvg-id="M+ Clasicos" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png"  group-title="00. MOVISTAR CINE-SERIES",M+ Clasicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
