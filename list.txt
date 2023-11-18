@@ -59,7 +59,7 @@ https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
-httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -658,9 +658,6 @@ https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=748788c16da8454ca356eb91b93eafbc:1423e9115e2a366ac3d894aebe67669c
 https://05daznliga-dash-movistarplus.emisiondof6.com/dash/05daznliga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="00. MOVISTAR DAZN",Dazn LaLiga 2
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/201
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="MOVISTAR HYPERMOTION" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701"  group-title="00. MOVISTAR HYPERMOTION",LaLiga TV Hypermotion 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
