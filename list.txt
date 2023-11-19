@@ -61,12 +61,11 @@ https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
 httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
-#EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg" group-title="00. TDT", GOL PLAY 
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="00. TDT",GOL PLAY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"giq3OeAgT2uG8N2oUnUrfQ","k":"VzWj92fIRLL/QSjXeIN5pA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=822ab739e0204f6b86f0dda852752b7d&key=5735a3f767c844b2ff4128d7788379a4
+https://cutv-wp21.cdn.telefonica.com/4577/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
 
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="00. TDT", Telecinco HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
