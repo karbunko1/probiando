@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-#EXTINF:-1 tvg-id="La 1 HD" group-title="TDT" tvg-logo="https://www.chillglobal.com/images/channels/la1-1432656871.jpg" group-title="00. TDT",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:0 tvg-id="LA 1" group-title="TDT" tvg-logo="https://www.chillglobal.com/images/channels/la1-1432656871.jpg", group-title="00.TDT"LA 1 FHD
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278027
 
 #EXTINF:-1 tvg-id="La 2" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="00. TDT",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
@@ -11,7 +11,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 
 #EXTINF:-1 tvg-id="Teledeporte" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="00. TDT",Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
 
 #EXTINF:-1 tvg-id="Clan TVE SD" group-title="TDT" tvg-id="Clan TVE" tvg-logo="http://picons.pompella.xyz/picons/clan.png" group-title="00. TDT ", Clan TVE SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -21,25 +21,13 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="00. TDT", Antena 3 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"e+2VJ7YKRNyPu+mEVoJTpg","k":"ti0Qlttk084JEg9LmEcvIg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
 
 #EXTINF:-1 tvg-id="Atreseries HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="00. TDT", A3Series HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FLr1QMhrSOSVRFm6Dnbepw","k":"K7Zz8RfsnxSDeya75hqs5g"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://a3series-dash-movistarplus.emisiondof6.com/dash/a3series.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
 
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="00. TDT", Cuatro HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Jqe6OEGtQR6hOp+50UcOqQ","k":"IQAG+1/crlp9NgUd4xkRtA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
 
 
 #EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
@@ -52,28 +40,16 @@ httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 https://cutv-wp21.cdn.telefonica.com/4577/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
 
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="00. TDT", Telecinco HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gJ7XbyZWQdm8cxNR1qBsQA","k":"lzFXRLO3CnSvdGzdYaKZ2g"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68748
 
 #EXTINF:-1 tvg-id="la sexta" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="00. TDT",La Sexta HD
-https://tvup-live.secure2.footprint.net/lasexta/lasexta.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31908
 
 #EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="00. TDT", Neox HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cLpL3ePgTWWejPGMB2FT3A","k":"ACh3Pvf12RH76jbTFjs2AQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://neox-dash-movistarplus.emisiondof6.com/dash/neoxor.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
 
-#EXTINF:-1 tvg-id="Energy SD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="00. TDT", Energy SD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUCTr0EcQNmSTuDYa7wYsQ","k":"ubQC/xCL8+Sk3uusMcQ15Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Energy" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="00. TDT", Energy
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
 
 #EXTINF:0 tvg-id="Mega" group-title="TDT" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="00. TDT",MEGA HD
 http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
@@ -107,18 +83,13 @@ https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Divinity" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="00. TDT", Divinity
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yVUuBRWyR3edLCBNwS9GtQ","k":"ryuUK1CcJk20ubXJ4iNcMg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
 
 #EXTINF:-1 tvg-id="Nova" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="00. TDT", Nova
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LOjDtNGbQyyUSZypHcnZlw","k":"IyoPU1bguyZyowQ+CPGK6A"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
+
+#EXTINF:-1 tvg-id="Castilla la Mancha" group-title="TDT" ch-number="217" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="00. TDT",Castilla la Mancha
+http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
 
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="00. TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
