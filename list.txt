@@ -703,6 +703,13 @@ https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluenovasport1/Manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Sky Premier" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.R5YNR7NEL4gDdhSusuvJuAHaEK&pid=Api&P=0&h=180" group-title="00. MOVISTAR OTROS DEPORTES",Sky Premier
+#KODIPROP:inputstream.adaptive.manifest_type=mpd      
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00053cbaa4301cc9993e68fd4b6ce671:2a8e008597a45602dc4f39f06e119630
+https://linear007-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsmainevent)/manifest_sd.mpd
+
+
 #EXTINF:-1 tvg-id="MMA" group-title="MOVISTAR OTROS DEPORTES" ch-number="41" tvg-logo="https://media.tvup.cloud/canales/color_lg_64f5868a482482bd3ffd12d0.png" group-title="00. MOVISTAR OTROS DEPORTES",MMA
 https://daiconnect.com/live/hls/tvup/tvfy-mma/.m3u8
 
