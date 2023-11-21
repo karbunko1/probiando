@@ -187,9 +187,6 @@ https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969
 https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="00. MOVISTAR ENTRETENIMIENTO",TOROLE
-http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
-
 #EXTINF:-1 tvg-id="AFV Español" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="00.MOVISTAR ENTRETENIMIENTO",AFV Español
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
 
@@ -216,6 +213,9 @@ http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
 https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="00. MOVISTAR MUNDO TORO",TOROLE
+http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
 
 #EXTINF:-1 tvg-id=" M+ Toros" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR MUNDO TORO" ,M+ Toros 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
