@@ -717,6 +717,12 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-036/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
+#EXTINF:-1 tvg-id="NFL" group-title="MOVISTAR OTROS DEPORTES" ch-number="1" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png" group-title="00. MOVISTAR OTROS DEPORTES",NFL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.file_type=mpd
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://www.dazn.com/es-ES/fixture/ContentId:dq0l1n8p9nk15ok3r0g4amqtf/dq0l1n8p9nk15ok3r0g4amqtf?manifest_type=mpd&title=NFL
+
 #EXTINF:-1 tvg-id="CBS NFL" group-title="MOVISTAR OTROS DEPORTES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR OTROS DEPORTES",CBS NFL 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
