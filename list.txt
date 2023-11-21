@@ -204,25 +204,12 @@ https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR MUNDO TORO",OneToro TV HD
-http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
-
-#EXTINF:-1 tvg-id="EL TORO TV" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO" group-title="00. MOVISTAR MUNDO TORO" ,EL TORO TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
-https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
-
 #EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="00. MOVISTAR MUNDO TORO",TOROLE
 http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
 
-#EXTINF:-1 tvg-id=" M+ Toros" group-title="MOVISTAR MUNDO TORO" ch-number="139" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR MUNDO TORO" ,M+ Toros 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ieKA12VpRPKDncpXTh7Xeg","k":"lyKsBod7YEBBqefrRIL+Vw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://toros-dash-movistarplus.emisiondof6.com/dash/toros.isml/manifest.mpd
+#EXTINF:-1 tvg-id="TORO " group-title="MOVISTAR MUNDO TORO" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="00. MOVISTAR MUNDO TORO",TORO 
+http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk114r8EF3Cfea-ZsqMMXQ0is
+
 
 #EXTINF:-1 tvg-id="BBC WORLD NEWS EUROPE HD" group-title="MOVISTAR NOTICIAS" ch-number="128" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="00. MOVISTAR NOTICIAS" ,BBC WORLD NEWS EUROPE HD
 #KODIPROP:inputstream=inputstream.adaptive
