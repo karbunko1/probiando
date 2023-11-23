@@ -1460,6 +1460,10 @@ https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
 https://cache4.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
 
+
+
+
+
 #EXTINF:-1 tvg-id="Unbeaten" group-title="DANZ LIVE" tvg-logo="https://www.spirit-of-metal.com/les%20goupes/U/Unbeaten/pics/logo_5788.jpg" group-title="00.DAZN LIVE",Unbeaten
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1476,21 +1480,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-019/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN  IT" group-title="DANZ LIVE" tvg-logo="https://i.etsystatic.com/46360592/r/il/f0bf28/5228883964/il_fullxfull.5228883964_e2ey.jpg" group-title="00. DAZN LIVE",DAZN IT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://www.dazn.com/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-020/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2 IT" group-title="DANZ LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="00. DAZN LIVE",DAZN 2 IT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://www.dazn.com/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-021/stream.mpd
 
 #EXTINF:-1 tvg-id="ZONA DAZN IT" group-title="DANZ LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg/260px-Logo_del_canale_televisivo_Zona_DAZN.svg.png" group-title="00. DAZN LIVE",ZONA DAZN IT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
