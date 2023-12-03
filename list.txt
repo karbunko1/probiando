@@ -223,13 +223,13 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="00. TDT" ,La1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT" ,La1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
-#EXTINF:-1 tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="00. TDT",La2
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=52d3738871536dce27db50f044d3294a4c52253d
-#EXTINF:-1  tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="00. TDT",24 HORAS
+#EXTINF:-1  tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="TDT",24 HORAS
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2191383ed85d20f5f6759785e14a4aff8a3ab8f4
-#EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="00. TDT",LaOtra
+#EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
