@@ -269,55 +269,14 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
 #EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES",TCM
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Paramount Network" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg" group-title="00. MOVISTAR CINE-SERIES",Paramount Channel
 https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
-
-
-
-#EXTINF:-1 tvg-id="Somos" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/636a562e4919d_somos081122.jpg"  group-title="00. MOVISTAR CINE-SERIES", Somos 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3nZn0680QLuzWahveqIVGw","k":"SBnCxWGpGMeYlY77iCjT1Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-id="XTRM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://amcnetworks.es/wp-content/uploads/2013/06/XTRM-NUEVA-IMAGEN3.jpg"  group-title="00. MOVISTAR CINE-SERIES", XTRM  
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2CHa1OYsTcaV4f94GaNlbg","k":"v3dHw/HNStlPRh6D1cWIjA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Sundance" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg"  group-title="00. MOVISTAR CINE-SERIES", Sundance 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AJhaKp9yTwe30dQz1SvSFg","k":"Xt/XZ1Rm8xuHFX7h9p1fEA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="BE MAD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png"  group-title="00. MOVISTAR CINE-SERIES", BE MAD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9HF2/2WbTf+fpsA/6+MpOw","k":"2H23g8bh02J/mOD2+7J5Xg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="00. MOVISTAR CINE-SERIES",Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="Energy" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png"  group-title="00. MOVISTAR CINE-SERIES",Energy 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oUCTr0EcQNmSTuDYa7wYsQ","k":"ubQC/xCL8+Sk3uusMcQ15Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 channel-id="pluto-6304f626d1a0ac00083a05c5" tvg-id="6304f626d1a0ac00083a05c5" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="PLUTO TV" , Los padrinos mágicos
@@ -563,41 +522,6 @@ https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-chno="913" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="PLUTO TV" , iCarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
 
-#EXTINF:-1 tvg-id="M+ LaLiga UHD" group-title="MOVISTAR + 4K" ch-number="440" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH",M+ LaLiga UHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e0bb7fb0aa441758a91e758bf30d829:e0b47b64161c8f96933d4e828b0e8a7e
-https://uhdlaliga-dash-movistarplus.emisiondof6.com/uhddash/uhdlaliga.isml/manifestuhd.mpd
-
-#EXTINF:-1 tvg-id="DAZN F1 4K" group-title="MOVISTAR + 4K" ch-number="442" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD",DAZN F1 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e
-https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/manifestuhd.mpd
-
-#EXTINF:-1 tvg-id="M+LCAMPEONES UHD" group-title="MOVISTAR + 4K" ch-number="444" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png",M+LCAMPEONES UHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=691b095fbafe429180e34b75872b32ec:b5b3348c2e53eaf3981dccb8cb6e3fc8
-https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifestuhd.mpd
-
-#EXTINF:-1 tvg-id="Canal Cocina 4K" group-title="MOVISTAR + 4K" ch-number="4" tvg-logo="https://ver.zapitv.com/images/ch/54/LOGO/m/0",Canal Cocina 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
-https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
-
-#EXTINF:-1 tvg-id="Decasa 4K" group-title="MOVISTAR + 4K" ch-number="7" tvg-logo="https://ver.zapitv.com/images/ch/79/LOGO/m/0",Decasa 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
-https://cache4.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
-
 
 
 
@@ -650,14 +574,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
 #EXTVLCOPT:http-referer=https://www.dazn.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-045/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN Canal+ Ligue 1 Uber Eats" group-title="DANZ LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Canal%2B_Ligue_1_Uber_Eats.png" group-title="00. DAZN LIVE",DAZN Canal+ Ligue 1 Uber Eats
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://www.dazn.com/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN Eleven 1 (POR)" group-title="DANZ LIVE" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg" group-title="00. DAZN LIVE",DAZN Eleven 1 (POR)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -717,16 +633,5 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/5+WsPdkQh+4Tfnmur5F6A","k":"XZWxWj6CHXM9CaqC+qz72w"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Golf 2" group-title="MOVISTAR GOLF" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg"  group-title="00. MOVISTAR GOLF",M+ Golf 2 HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aA4MRn54R2Kz7jkCz9Cj/w","k":"UYcOUgAqg51v4HYbdvNHFg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
 
