@@ -210,29 +210,25 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760
 http://127.0.0.1:6878/ace/manifest.m3u8?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Barcelona TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="electroperra" tvg-id="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" ,Discovery  
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
-#EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO WILD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" ,Nat Geo Wild  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" ,National Geographic  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="electroperra" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1  02b9
-http://127.0.0.1:6878/ace/manifest.m3u8?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1 UHD  6636
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  6010
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" ,CUATRO 1080  e8ee
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="Otros" tvg-id="Be Mad" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BEMAD" ,BeMad 1080  5c26
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
-#EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5" ,Telecinco 1080  bb19
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
+
+
+#EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="NAT GEO WILD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" ,Nat Geo Wild  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="NAT GEO HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" ,National Geographic  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
+
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="00. TDT" ,La1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="00. TDT",La2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=52d3738871536dce27db50f044d3294a4c52253d
+#EXTINF:-1  tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="00. TDT",24 HORAS
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2191383ed85d20f5f6759785e14a4aff8a3ab8f4
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="00. TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
