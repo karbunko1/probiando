@@ -1,95 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml , https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz"
 
 
-#EXTINF:0 tvg-id="LA 1" group-title="TDT" tvg-logo="https://www.chillglobal.com/images/channels/la1-1432656871.jpg", group-title="00.TDT"LA 1 FHD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278027
-
-#EXTINF:-1 tvg-id="La 2" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="00. TDT",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-id="24 Horas" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="00. TDT",24 Horas
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-
-#EXTINF:-1 tvg-id="Teledeporte" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="00. TDT",Teledeporte
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55925
-
-#EXTINF:-1 tvg-id="Clan TVE SD" group-title="TDT" tvg-id="Clan TVE" tvg-logo="http://picons.pompella.xyz/picons/clan.png" group-title="00. TDT ", Clan TVE SD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4sJlQoUsQzOuxo6DhE87sQ","k":"5v6EAp5uLg4gOM7+G12qhQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Antena 3 HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/a3.png" group-title="00. TDT", Antena 3 HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
-
-#EXTINF:-1 tvg-id="Atreseries HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/atreseries.png" group-title="00. TDT", A3Series HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67507
-
-#EXTINF:-1 tvg-id="Cuatro HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/cuatro.png" group-title="00. TDT", Cuatro HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31907
 
 
-#EXTINF:-1 tvg-id="Factoria de Ficcion" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", group-title="00. TDT" Factoria de Ficcion
-httpS://svtv.xyz:8080/CesarAlv/GWQ4EAM/55893
 
-#EXTINF:-1 tvg-id="GOL PLAY" group-title="TDT" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="00. TDT",GOL PLAY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=822ab739e0204f6b86f0dda852752b7d&key=5735a3f767c844b2ff4128d7788379a4
-https://cutv-wp21.cdn.telefonica.com/4577/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE
-
-#EXTINF:-1 tvg-id="Telecinco HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telecinco.png" group-title="00. TDT", Telecinco HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/68748
-
-#EXTINF:-1 tvg-id="la sexta" group-title="TDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="00. TDT",La Sexta HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31908
-
-#EXTINF:-1 tvg-id="Neox HD" group-title="TDT" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="00. TDT", Neox HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55889
-
-#EXTINF:-1 tvg-id="Energy" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/energy.png" group-title="00. TDT", Energy
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
-
-#EXTINF:0 tvg-id="Mega" group-title="TDT" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-1695.png" group-title="00. TDT",MEGA HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55890
-
-#EXTINF:-1 tvg-id="Telemadrid HD" group-title="TDT" tvg-logo="http://picons.pompella.xyz/picons/telemadrid.png" group-title="00. TDT", Telemadrid HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RfKy/uE7RvWHRX4RiiN7Ug","k":"Qf4jbYFZuVyFAo/N9bVvOg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdttelemadrid-dash-movistarplus.emisiondof6.com/dash/tdttelemadrid.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DKISS" group-title="TDT" ch-number="94" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS" group-title="00. TDT" ,DKISS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31d3c8de4f46404d96855a84b3568ea1:72d1c888c7ccb4bb2bb10e61fd241a5b
-https://dkiss-dash-movistarplus.emisiondof6.com/dash/dkissor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Movistar Plus+" group-title="TDT" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. TDT", Movistar Plus+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hGjuu5XYQYyoXfaiOB+2TQ","k":"AIdIpqy7s0kb9d1JNV2CBw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Movistar Plus+ 2" group-title="TDT" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. TDT", Movistar Plus+ 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TU7Z9FsWQJaKlWnUjLaNZA","k":"BNmbiXzBaYOVCl9LDHLWmA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2plus-dash-movistarplus.emisiondof6.com/dash/2plus.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Divinity" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="00. TDT", Divinity
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55892
-
-#EXTINF:-1 tvg-id="Nova" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="00. TDT", Nova
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/67484
-
-#EXTINF:-1 tvg-id="Castilla la Mancha" group-title="TDT" ch-number="217" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSzbwWlkZgJ8Fu3OqIkk4APM-m2pEiVw74l8xk0SuQ&s" group-title="00. TDT",Castilla la Mancha
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
 
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="00. TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
@@ -98,146 +12,19 @@ http://svtv.xyz:8080/CesarAlv/GWQ4EAM/372204
 #KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
 https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
 
-#EXTINF:-1 tvg-id="Canal Sur" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg" group-title="00. MOVISTAR CANALES AUTONOMICOS", Canal Sur
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ofK16IzjQvaYzO70fBGOmw","k":"OEAYXixIIxN6XN0kYGhDmg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdtcsur-dash-movistarplus.emisiondof6.com/dash/tdtcsur.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV3" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="00. MOVISTAR CANALES AUTONOMICOS", TV3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jPHQxNP7QVWBIAT+edsd5A","k":"qFh19vaVMa2SCi9XbLpExg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdttv3-dash-movistarplus.emisiondof6.com/dash/tdttv3.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TVG -TV Galicia" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo%2BTVG.svg/1024px-Logo%2BTVG.svg.png" group-title="00. MOVISTAR CANALES AUTONOMICOS", TVG -TV Galicia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"V1a2xRsSQG6X9mHiUBCe+g","k":"3mJKFsevL1Hhn+HAk8WzMw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="ETB 1" group-title="MOVISTAR CANALES AUTONOMICOS"  tvg-logo="https://images11.eitb.eus/multimedia/images/2022/01/03/2873447/20220103124601_logostreamingetb1_foto300x168.jpg" group-title="00. MOVISTAR CANALES AUTONOMICOS", ETB 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kAEN3Q+HR4iWexi0jlO79w","k":"JVGGUcIirgF0tci8aYlO9Q"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdt1etb-dash-movistarplus.emisiondof6.com/dash/tdt1etb.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="IB3" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://ib3.org/ib3/baners/PORTADA-header.jpg" group-title="00. MOVISTAR CANALES AUTONOMICOS", IB3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gJoPk0ywRza5nEt6ZuVrHA","k":"B3yvYL5JlhuLmBYz923YPg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdt3ibiza-dash-movistarplus.emisiondof6.com/dash/tdt3ibiza.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Aragón TV" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png"  group-title="00. MOVISTAR CANALES AUTONOMICOS", Aragón TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yNyHUJfgQECQVBmXZwfsPg","k":"A96n3PwP2saIROJLVUqZmg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdttvaragon-dash-movistarplus.emisiondof6.com/dash/tdttvaragon.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="À Punt" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://espaitec.uji.es/admin/files/400x300/companies/224_5f1eca5520171_apunt-crm-1.jpg"  group-title="00. MOVISTAR CANALES AUTONOMICOS", À Punt
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PaaZ3ZDKTtW1ktwaKUgSrQ","k":"u0NnA96hq+ZgwAlnZXo10w"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV Canaria" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_de_Televisi%C3%B3n_Canaria.svg/1200px-Logo_de_Televisi%C3%B3n_Canaria.svg.png" group-title="00. MOVISTAR CANALES AUTONOMICOS", TV Canaria
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sJmSLd2OTJu/32XXw+5zmA","k":"QSquwU0Ddf7/r4Wz9tO7xA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tdttvcanarias-dash-movistarplus.emisiondof6.com/dash/tdttvcanarias.isml/manifest.mpd
-
 #EXTINF:-1 tvg-id="Esport3 CAT" group-title="MOVISTAR CANALES AUTONOMICOS" ch-number="164" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP3" group-title=" 00. MOVISTAR CANALES AUTONOMICOS",Esport3 CAT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="EITB Basque" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" group-title="00. MOVISTAR CANALES AUTONOMICOS", ETB Basque
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IBfHyIgvQVyzkbqhIv1y4A","k":"9TONfwHjCE95fEaMM0+Www"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://etb-dash-movistarplus.emisiondof6.com/dash/etbor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Nautical Channel" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="00. MOVISTAR ENTRETENIMIENTO", M+ Nautical Channel  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nJamp80eRemJqhPonahA+w","k":"GeqGfP4vZmgEBTatKyM/IA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ #0" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png" group-title="00. MOVISTAR ENTRETENIMIENTO", M+ #0  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zGt63NHXTjetMKCXMo8ovw","k":"t+Rky6h1Gof0AFoHZvR8Sg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="COSMO" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="43" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/COSMO"group-title="00. MOVISTAR ENTRETENIMIENTO" , COSMO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969
-https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
-
 #EXTINF:-1 tvg-id="AFV Español" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="00.MOVISTAR ENTRETENIMIENTO",AFV Español
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
-
-#EXTINF:-1 tvg-id="M + Canal Cocina" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://canalcocina.es/images/canalcocina.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Cocina  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QHTtOl01QdaLmgajkcUZ6g","k":"AhWlCPOSXLmKt75k9+Vaug"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M + Caza y Pesca" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Caza y Pesca  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4IgUoz5IQtKcttTPl69vNg","k":"TUDediQAAvbw37zNXhRUdg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="00. MOVISTAR MUNDO TORO",TOROLE
-http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
 
 #EXTINF:-1 tvg-id="TORO " group-title="MOVISTAR MUNDO TORO" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="00. MOVISTAR MUNDO TORO",TORO 
 http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk114r8EF3Cfea-ZsqMMXQ0is
 
-
-#EXTINF:-1 tvg-id="BBC WORLD NEWS EUROPE HD" group-title="MOVISTAR NOTICIAS" ch-number="128" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="00. MOVISTAR NOTICIAS" ,BBC WORLD NEWS EUROPE HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca46a26617cf4249868b9add6e64123d:124947113dd855fdd2029be348b9d79b
-https://worldbbc-dash-movistarplus.emisiondof6.com/dash/worldbbc.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="CNN INT." group-title="MOVISTAR NOTICIAS" ch-number="129" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CNN" group-title="00. MOVISTAR NOTICIAS" ,CNN INT.
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37a46881d0944afa8ea10942555a5267:74fd02872ff974f8f38a9ff3845eaa5b
-https://intcnn-dash-movistarplus.emisiondof6.com/dash/intcnnor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="FOX NEWS" group-title="MOVISTAR NOTICIAS" ch-number="130" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FOXNWS" group-title="00. MOVISTAR NOTICIAS" ,FOX NEWS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a4ac8d75a047e1baea5a4453664325:5287f24cc620f6f187a7b93d31be80d4
-https://newsfox-dash-movistarplus.emisiondof6.com/dash/newsfoxor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="EURONEWS" group-title="MOVISTAR NOTICIAS" ch-number="131" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENW" group-title="00. MOVISTAR NOTICIAS" ,EURONEWS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f73028292d14b9082934b435e5587eb:16260268d1cd7e58592735c7110b1895
-https://1euronews-dash-movistarplus.emisiondof6.com/dash/1euronewsor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="TOROLE" group-title="MOVISTAR MUNDO TORO" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="00. MOVISTAR MUNDO TORO",TOROLE
+http://sevi.2022spn.net:8080/play/QvebfJA8dDb7cS2yWgRk1x7LgtY4ercS-GOIjPjwpgw
 
 #EXTINF:-1 tvg-id="AL JAZEERA ENGLISH" group-title="MOVISTAR NOTICIAS" ch-number="132" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ALJAZE" group-title="00. MOVISTAR NOTICIAS" ,AL JAZEERA ENGLISH
 #KODIPROP:inputstream=inputstream.adaptive
@@ -266,11 +53,6 @@ https://streamer.zapitv.com/CNBC/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-#EXTINF:-1 tvg-id="BLOOMBERG EUROPE TV" group-title="MOVISTAR NOTICIAS" ch-number="138" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BL" group-title="00. MOVISTAR NOTICIAS",BLOOMBERG EUROPE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
 #EXTINF:-1 tvg-id="Canal de las estrellas" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV" group-title="00. MOVISTAR ENTRETENIMIENTO",Canal de las estrellas TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -278,36 +60,10 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #KODIPROP:inputstream.adaptive.license_key=940a71d465f34a76d17f66bb84ecd749:309d63d8795189c775b45771c3d4a414
 https://ott.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_enc/CANAL_DE_LAS_ESTRELLAS.mpd
 
-#EXTINF:-1 tvg-id="Arirang TV" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="145" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARIRHD" group-title="00. MOVISTAR ENTRETENIMIENTO",Arirang TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cubavision" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="147" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CUBAV", group-title="00. MOVISTAR ENTRETENIMIENTO" ,Cubavision TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
-
-#EXTINF:-1 tvg-id="M+ Horse TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Horse TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hGuftSYqR9WU7/g7iPVzYQ","k":"YVUSv7YZz4/yDb/3YAxeHw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://horsetv-dash-movistarplus.emisiondof6.com/dash/horsetv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id=" M + Canal Decasa" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://media.v2.siweb.es/uploaded_thumb_big/b0beadbdb0050b3b98eadea5c84619ef/canal_decasa_y_davanni.jpg"  group-title="00. MOVISTAR ENTRETENIMIENTO",Canal Decasa
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CnSJ93veT2KGejutkj5UmA","k":"RS8vNJICQIq7CTbJK9ILdg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Enfamilia" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png"  group-title="00. MOVISTAR ENTRETENIMIENTO",Enfamilia  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WWm5tdUJTpWyhfbxDke4XQ","k":"O912lS6wM5zEcPUOEGf19w"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Iberalia 100% Caza" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="73" tvg-logo="https://ver.zapitv.com/images/ch/51/LOGO/m/0" group-title="00. MOVISTAR ENTRETENIMIENTO",Iberalia 100% Caza
 #KODIPROP:inputstream=inputstream.adaptive
@@ -316,13 +72,6 @@ https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest
 #KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
 https://cache2.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd
 
-#EXTINF:-1 tvg-id="De Telenovelas" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Telenovelas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf4671f44116448236c23dc7813c4835:e01ba6e0304c3e0d82b3705e01607a9e
-https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.mpd  
-
 #EXTINF:-1 tvg-id="Iberalia 100% Pesca" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="74" tvg-logo="https://ver.zapitv.com/images/ch/52/LOGO/m/0" group-title="00. MOVISTAR ENTRETENIMIENTO",Iberalia 100% Pesca
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -330,53 +79,15 @@ https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.m
 #KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
 https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
 
-#EXTINF:-1 tvg-id="M+ Fest" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/640px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR ENTRETENIMIENTO", Fest  HD 
+#EXTINF:-1 tvg-id="De Telenovelas" group-title="MOVISTAR ENTRETENIMIENTO" ch-number="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Telenovelas
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xUMAuwR7TD6bdUL/i3Zsxw","k":"WH24QmgGU0Cvf/okshhJlw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mfest-dash-movistarplus.emisiondof6.com/dash/mfest.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Popup" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Popup  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4+CwRxYwSX64H8F/OaUiGA","k":"T0RVhmTj78GBG3zoi+tZeg"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id=" M+ La Resistencia 24H" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg"  group-title="00. MOVISTAR ENTRETENIMIENTO", M+ La Resistencia  24H
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Fz2ZGRXyShG2es0MdZFDcA","k":"TvgkX3IAE4VPCWz//Y4QKA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id=" M+ Negocios TV" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR ENTRETENIMIENTO", M+ Negocios TV HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+7j7PUnATLGvt3PhlGG23g","k":"Jz9rZOeq4yMgh3Q7y7t4NQ"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://negociostv-dash-movistarplus.emisiondof6.com/dash/negociostv.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4671f44116448236c23dc7813c4835:e01ba6e0304c3e0d82b3705e01607a9e
+https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.mpd  
 
 #EXTINF:-1 tvg-id="Comedy Central" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Comedy Central
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61023
-
-#EXTINF:-1 tvg-id="M+ #Vamos" group-title="MOVISTAR" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901775194689618/unknown.png" group-title="00. MOVISTAR", Vamos por M+ HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"d7fl6LY1S/iSWvDd0kr+vQ","k":"Y17UlNmQRmApuWgcfZgRQw"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Real Madrid TV" group-title=" MOVISTAR DEPORTE" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/r/e/a/realmadrid-tv.jpg"  group-title="00. MOVISTAR DEPORTE",Real Madrid TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"waR3lPvMQVaTt2WJlGDmOQ","k":"alXCPuvxKG0o1T65TWQNeA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ Deportes HD" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES FHD
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61047
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 2 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61048
@@ -390,12 +101,8 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 5 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61051
 
-#EXTINF:-1 tvg-id="GOL PLAY" group-title=" MOVISTAR DEPORTE" tvg-logo="http://picons.pompella.xyz/picons/gol_play.jpg"  group-title="00. MOVISTAR DEPORTE",GOL PLAY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"giq3OeAgT2uG8N2oUnUrfQ","k":"VzWj92fIRLL/QSjXeIN5pA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="MOVISTAR LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png"  group-title="00. MOVISTAR LALIGA",M+ LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1578,7 +1285,7 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 #EXTINF:-1 tvg-id="ATRESplayer PREMIUM" group-title="ATRESPLAYER" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2018/01/24/3A62BD1C-A059-40B1-8688-8BECED7D41A7//720x540.jpg" group-title="00. ATRESPLAYER",ATRESplayer PREMIUM
 https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
 
-#EXTINF:-1 tvg-id="M+ Golf" group-title="MOVISTAR GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png"  group-title="00. MOVISTAR GOLF",M+ Golf HD 
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/5+WsPdkQh+4Tfnmur5F6A","k":"XZWxWj6CHXM9CaqC+qz72w"}]}
