@@ -92,6 +92,11 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61023
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 2 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61048
 
+
+#EXTINF:-1 tvg-id="MOVISTAR + " group-title="MOVISTAR DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR DEPORTES",MOVISTAR +
+https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
+
+
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 3 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61049
 
@@ -240,18 +245,8 @@ https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mp
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="00. MOVISTAR CINE-SERIES",AXN
 http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
 
-#EXTINF:-1 tvg-id="M+ Cine " group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="00. MOVISTAR CINE-SERIES",M+ CINE
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
-
 #EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="00. MOVISTAR CINE-SERIES",Hollywood
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ C MORE" group-title="MOVISTAR CINE-SERIES" tvg-logo="http://psxbyzpicons.dedyn.io/picons/M_plus.png"  group-title="00. MOVISTAR CINE-SERIES",C MORE  HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0JTRQB+qXNKc+zYSdGKarQ","k":"eT079+FukwDAKY+ys7pvaA"}]}
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
 #EXTINF:-1 tvg-id="Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="MOVISTAR CINE-SERIES",Calle 13
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd
@@ -268,9 +263,6 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
 
 #EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES",TCM
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Paramount Network" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg" group-title="00. MOVISTAR CINE-SERIES",Paramount Channel
-https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
 
 #EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="00. MOVISTAR CINE-SERIES",Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
