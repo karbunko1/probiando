@@ -3,6 +3,346 @@
 
 
 
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES : LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="LA 2" tvg-name="ES : LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ES : ANTENA 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ANTENA 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46466
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="ES : CUATRO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C4.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CUATRO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46467
+#EXTINF:-1 tvg-id="TELECINCO" tvg-name="ES : TELECINCO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TELECINCO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46468
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : LA SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA SEXTA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46473
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="ES : M+ PLUS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ PLUS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46474
+#EXTINF:-1 tvg-id="M+ VAMOS" tvg-name="ES : VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : VAMOS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46475
+#EXTINF:-1 tvg-id="7 RM" tvg-name="7 TV Región Murcia" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/7TVMUR.png" group-title="ZAPEANDO MOVISTAR IPTV",7 TV Región Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="A Punt HD" tvg-name="ES : Á PUNT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/APUNT.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : Á PUNT
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ES : ARAGÓN TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGTV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ARAGÓN TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46478
+#EXTINF:-1 tvg-id="Televisión Canaria" tvg-name="ES : TV CANARIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANAR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV CANARIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46479
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ES : CANAL SUR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANSUR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL SUR
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ETB" tvg-name="ES : ETB 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES : CANAL EXTREMADURA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTRE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL EXTREMADURA
+https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="IB3" tvg-name="ES : IB3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IB3.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : IB3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700526221/ei/LaRbZZvFM8nOW9uTsegO/ip/37.230.93.7/id/m8A_jn9LuGE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyJGIF_eenZs9P61D8m39mSu5r6EmXyzGpwJjw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAPu7iIjIveBFQp31LA92PUrVi2N1qB5I38qDKvxsgZ7_AiBTMpwAPX1LRmtvjnCPchHSa08bIN
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES : TELEMADRID" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMAD.png" group-title="ZAPEANDO MOVISTAR",ES : TELEMADRID
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-id="TPA7" tvg-name="ES : TPA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TPA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TPA
+https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="TV3" tvg-name="ES : TV3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV3CAT.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV3
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVG HD" tvg-name="ES : TVG - TV GALICIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVGAL.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TVG - TV GALICIA
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Andalucia TV" tvg-name="ES : ANDALUCIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANDATV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ANDALUCIA TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46488
+#EXTINF:-1 tvg-id="ETB 2 HD" tvg-name="ES : ETB 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="La 8 Mediterraneo HD" tvg-name="ES : LA 8 TV MEDITERRANEO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEDITE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 8 TV MEDITERRANEO
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-id="TVG 2 HD" tvg-name="ES : TVG 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVG2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="ES : M+ CINE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ CINE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46493
+#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="ES : M+ SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ SERIES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46494
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ES : M+ ORIGINALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ ORIGINALES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46495
+#EXTINF:-1 tvg-id="M+ TERROR" tvg-name="ES : M+ TERROR (pop)" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/terror_mplus_logo.jpg" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ TERROR (pop)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46496
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES : M+ DOCUMENTALES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ DOCUMENTALES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46497
+#EXTINF:-1 tvg-id="M+ Música" tvg-name="ES : M+ MÚSICA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ MÚSICA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46498
+#EXTINF:-1 tvg-id="M+ La Resistencia" tvg-name="ES : LA RESISTENCIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA RESISTENCIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46499
+#EXTINF:-1 tvg-id="M+ CLÁSICOS" tvg-name="ES : M+ CLÁSICOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ CLÁSICOS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46500
+#EXTINF:-1 tvg-id="M+ ACCIÓN" tvg-name="ES : M+ ACCIÓN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ ACCIÓN
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46501
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="ES : M+ COMEDIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ COMEDIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46502
+#EXTINF:-1 tvg-id="M+ DRAMA" tvg-name="ES : M+ DRAMA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ DRAMA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46503
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="ES : M+ SUSPENSE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MSUSP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ SUSPENSE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46504
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="ES : M+ INDIE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ INDIE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46505
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="ES : M+ CINE ESPAÑOL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ CINE ESPAÑOL
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46506
+#EXTINF:-1 tvg-id="TCM" tvg-name="ES : TCM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TCM
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46507
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="ES : HOLLYWOOD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : HOLLYWOOD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46508
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES : XTRM" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : XTRM
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46509
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES : SUNDANCE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : SUNDANCE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46510
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES : DARK" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DARK
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46511
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES : SOMOS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : SOMOS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46512
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="ES : PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : PARAMOUNT CHANNEL
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46513
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES : BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BEMAD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BE MAD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46514
+#EXTINF:-1 tvg-id="FOX" tvg-name="ES : FOX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : FOX
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46515
+#EXTINF:-1 tvg-id="AXN" tvg-name="ES : AXN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AXN
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46516
+#EXTINF:-1 tvg-id="WARNERTV" tvg-name="ES : WARNER TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : WARNER TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46517
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="ES : COMEDY CENTRAL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : COMEDY CENTRAL
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46518
+#EXTINF:-1 tvg-id="CALLE 13" tvg-name="ES : CALLE 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CALLE 13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46519
+#EXTINF:-1 tvg-id="COSMO" tvg-name="ES : COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : COSMO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46520
+#EXTINF:-1 tvg-id="SYFY" tvg-name="ES : SYFY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : SYFY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46521
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES : AMC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AMC
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46522
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES : AXN MOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AXN MOVIES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46523
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES : TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES : ENERGY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ENERGY.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ENERGY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46525
+#EXTINF:-1 tvg-id="FDF" tvg-name="ES : FDF" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : FDF
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46526
+#EXTINF:-1 tvg-id="NEOX" tvg-name="ES : NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEOX.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NEOX
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46527
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES : ATRESERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ATRESS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ATRESERIES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46528
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LALIGA TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DAZN LALIGA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46530
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES : LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LALIGA TV HYPERMOTION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46531
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="ES : M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LALIGA TV 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46532
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES : DAZN LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DAZN LALIGA 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46533
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES : LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LALIGA TV HYPERMOTION 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46534
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ES : M+ LIGA DE CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46535
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="ES : M+ LIGA DE CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46536
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="ES : M+ LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46537
+#EXTINF:-1 tvg-id="M+ DEPORTES" tvg-name="ES : M+ DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ DEPORTES
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46538
+#EXTINF:-1 tvg-id="M+DEPORTES2" tvg-name="ES : M+ DEPORTES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ DEPORTES 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46539
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="ES : M+ DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ DEPORTES 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46540
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="ES : M+ ELLAS V" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MELLAV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ ELLAS V
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46541
+#EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ES : M+ GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ GOLF
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46542
+#EXTINF:-1 tvg-id="M+GOLF 2" tvg-name="ES : M+ GOLF 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ GOLF 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46543
+#EXTINF:-1 tvg-id="DAZN F1." tvg-name="ES : DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DAZN F1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46544
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES : DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DAZN 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46545
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES : DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DAZN 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46546
+#EXTINF:-1 tvg-id="EUROSPORT 1." tvg-name="ES : EUROSPORT 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EUROSPORT 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46547
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES : EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EUROSPORT 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46548
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="ES : GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOL.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : GOL PLAY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46549
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="ES : TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TDEP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TELEDEPORTE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46558
+#EXTINF:-1 tvg-id="Realmadrid TV HD" tvg-name="ES : REAL MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ES : CAZA Y PESCA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CAZA Y PESCA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46560
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES : IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/IBERAL.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : IBERALIA TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46561
+#EXTINF:-1 tvg-id="El Garage TV" tvg-name="ES : EL GARAJE TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GARAGE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EL GARAJE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="Ubeat" tvg-name="ES : UBEAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/UBEAT.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : UBEAT
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46563
+#EXTINF:-1 tvg-id="NAT GEOGRAPH" tvg-name="ES : NATIONAL GEOGRAPHIC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NATIONAL GEOGRAPHIC
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46564
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES : NAT GEO WILD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NAT GEO WILD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46565
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES : HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : HISTORIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46566
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES : DISCOVERY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DISCOVERY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46567
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES : ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ODISEA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46568
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES : AMC BREAK" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AMC BREAK
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46569
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES : DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DMAX
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46570
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES : AMC CRIME" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AMC CRIME
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46571
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="ES : BUENVIAJE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BUENV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BUENVIAJE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46572
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES : CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CACOC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL COCINA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46573
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES : CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DECASA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL DECASA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46574
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES : DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DKISS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DKISS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46575
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES : DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DIVINI.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DIVINITY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46576
+#EXTINF:-1 tvg-id="NOVA" tvg-name="ES : NOVA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NOVA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NOVA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46577
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES : MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : MEGA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46578
+#EXTINF:-1 tvg-id="TEN" tvg-name="ES : TEN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TEN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TEN
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46579
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="ES : ENFAMILIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ENFAMILIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46580
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="ES : BABY TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BABY TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46581
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="ES : DISNEY JUNIOR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PLAYDC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DISNEY JUNIOR
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46582
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES : NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NICK JR
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46583
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="ES : NICKELODEON" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICK.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NICKELODEON
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46584
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="ES : DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DWSP.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DREAMWORKS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46585
+#EXTINF:-1 tvg-id="DISNEY CH." tvg-name="ES : DISNEY CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCH.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : DISNEY CHANNEL
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46586
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES : BOING" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOING.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BOING
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46587
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="ES : CLAN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLANTV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CLAN
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES : MTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : MTV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46589
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="ES : MTV 00s" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : MTV 00s
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46590
+#EXTINF:-1 tvg-id="CLASSICA" tvg-name="ES : CLASSICA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CLASSD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CLASSICA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46592
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : 24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/24H.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : 24 HORAS
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES : BBC WORLD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BBC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BBC WORLD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46594
+#EXTINF:-1 tvg-id="CNN Int." tvg-name="ES : CNN INT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CNN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CNN INT
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:-1 tvg-id="EURONEWS FRENCH SD" tvg-name="ES : EURONEWS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXNWS.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EURONEWS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46596
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="ES : AL JAZEERA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ALJAZE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : AL JAZEERA
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="France 24 (en Français)" tvg-name="ES : FRANCE 24" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FRANCE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : FRANCE 24
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46598
+#EXTINF:-1 tvg-id="TV5MONDE EUROPE" tvg-name="ES : TV5MONDE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TV5.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV5MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="ES : BLOOMBERG" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BL.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES : EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Sky News Intl" tvg-name="ES : SKY NEWS INT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SKYNW.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : SKY NEWS INT
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:-1 tvg-id="Negocios TV" tvg-name="ES : NEGOCIOS TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NEGOTV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : NEGOCIOS TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="CGTN Español" tvg-name="ES : CGTN ESPAÑOL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CCTV-E.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="ES : TELEFE INT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELEFE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TELEFE INT
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46605
+#EXTINF:-1 tvg-id="Canal de las estrellas" tvg-name="ES : CANAL DE LAS ESTRELLAS" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GALAV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL DE LAS ESTRELLAS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46606
+#EXTINF:-1 tvg-id="774dtv.co" tvg-name="ES : TV CHILE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHILE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV CHILE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46607
+#EXTINF:-1 tvg-id="Arirang TV HD" tvg-name="ES : ARIRANG TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARIRHD.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ARIRANG TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Colombia" tvg-name="ES : TV COLOMBIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COLOMB.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV COLOMBIA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46609
+#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-name="ES : CUBAVISION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CUBAV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CUBAVISION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46610
+#EXTINF:-1 tvg-id="TELESUR HD" tvg-name="ES : TELESUR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TLESUR.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN" tvg-name="ES : EWTN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EWTN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL SUR A." tvg-name="ES : CANAL SUR ANDALUCIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ANTV.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL SUR ANDALUCIA
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-name="ES : TVG EUROPA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVG.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TVG EUROPA
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="ES : TV3 CAT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVC.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TV3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB 3" tvg-name="ES : EITB BASQUE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB.png" group-title="ZAPEANDO MOVISTAR",ES : EITB BASQUE
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ES : ARAGON  TV INT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARAGON.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : ARAGON  TV INT
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="ES : TELEMADRID INT" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TELMIN.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : TELEMADRID INT
+https://new-international-23.secure2.footprint.net/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="ES : CANAL 33" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/C33.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : CANAL 33
+https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ES : SPORT 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP3.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : SPORT 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="3 24" tvg-name="ES : 3 24" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/3_24.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : 3 24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="betevé" tvg-name="ES : BETEVÉ" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BTV.png" group-title="ZAPEANDO MOVISTAR",ES : BETEVÉ
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="ES : M+ LALIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LALIGA TV 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46624
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES : M+ LALIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LALIGA TV 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46625
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="ES : M+ PLUS 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ PLUS 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46626
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="ES : LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LALIGA TV HYPERMOTION 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46627
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="ES : M+ LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LIGA DE CAMPEONES 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46628
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="ES : M+ LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46629
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="ES : M+ LIGA DE CAMPEONES 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46630
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="ES : M+ LIGA DE CAMPEONES 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46631
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="ES : M+ LIGA DE CAMPEONES 8" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46632
+#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="ES : M+ LIGA DE CAMPEONES 9" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46633
+#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="ES : M+ LIGA DE CAMPEONES 10" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46634
+#EXTINF:-1 tvg-id="M+LCAMPEON11" tvg-name="ES : M+ LIGA DE CAMPEONES 11" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP10.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 11
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46635
+#EXTINF:-1 tvg-id="M+LCAMPEON12" tvg-name="ES : M+ LIGA DE CAMPEONES 12" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP11.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 12
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46636
+#EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="ES : M+ LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : M+ LIGA DE CAMPEONES 13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : El País
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : El Confidencial" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR",ES : El Confidencial
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : ETB Deportes" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : ETB Deportes
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : RTVE Somos Cine" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : RTVE Somos Cine
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : RTVE Cuéntame" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : RTVE Cuéntame
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : RTVE Época" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : RTVE Época
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : Aragón Deporte
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/68436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd definitivo" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",fhd definitivo
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD DEFINITIVO" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",HD DEFINITIVO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sd final" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",sd final
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd a 4k" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",fhd a 4k
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49474
 
 
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
