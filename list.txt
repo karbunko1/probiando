@@ -2,7 +2,60 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 
 
-
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="VOMISTAR +",TVE La1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="VOMISTAR +",TVE La2
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="VOMISTAR +",La Sexta
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ Plus 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/09/movistar-plus-2.jpg" group-title="VOMISTAR +",M+ Plus 2
+http://627925387656654580.of1030ok.xyz:80/play/DJJUMBO2282/qFTtXu@9xm/654580.ts
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="VOMISTAR +",La Resistencia
+http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
+#EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE" group-title="VOMISTAR +",El Garage TV
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(GARAGETV)/manifest.mpd
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421" tvg-name="AFV Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="VOMISTAR +",AFV Español
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="VOMISTAR +",BE MAD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="VOMISTAR +",FOX
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="VOMISTAR +",GH VIP 8
+https://directos.mediaset.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Mitele PLUS" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20230917_213537.png" group-title="VOMISTAR +",Mitele PLUS
+https://directos.mediaset.es/oripremium04/live/premium04/mpd-cenc/mpd-cenc.isml/.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="VOMISTAR +",COSMO
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/05/generica_elem_amcsp.jpg" group-title="VOMISTAR +",AMC
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
+#EXTINF:-1 tvg-id="I429.60690.zap2it.com" tvg-name="Trece TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_antes.jpg" group-title="VOMISTAR +",Trece TV
+https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Energy" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="VOMISTAR +",Energy
+https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Factoría de Ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="VOMISTAR +",Factoría de Ficción
+https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="VOMISTAR +",Neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Atreseries" tvg-logo="https://www.diariodenavarra.es/uploads/2015/12/10/60b0dde8502d7.jpeg" group-title="VOMISTAR +",Atreseries
+https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Channel" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg" group-title="VOMISTAR +",Paramount Channel
+https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Somos" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/636a562e4919d_somos081122.jpg" group-title="VOMISTAR +",Somos
+https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Dark" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/a/r/dark.jpg" group-title="VOMISTAR +",Dark
+https://cache3.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg" group-title="VOMISTAR +",Sundance
+https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="XTRM" tvg-logo="https://amcnetworks.es/wp-content/uploads/2013/06/XTRM-NUEVA-IMAGEN3.jpg" group-title="VOMISTAR +",XTRM
+https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="Hollywood" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="VOMISTAR +",Hollywood
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="VOMISTAR +",TCM
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:70_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="El Toro TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2023/06/LOGO_ETV.png" group-title="VOMISTAR +",El Toro TV
+https://ott.zapitv.com/live/eds_c2/intereconomia/dash_live_enc/intereconomia.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Á Punt" tvg-logo="https://espaitec.uji.es/admin/files/400x300/companies/224_5f1eca5520171_apunt-crm-1.jpg" group-title="VOMISTAR +",Á Punt
+https://ott.zapitv.com/live/eds_c2/a_punt_hd/dash_live_enc/a_punt_hd.mpd
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES : LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="LA 2" tvg-name="ES : LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/LA2.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 2
