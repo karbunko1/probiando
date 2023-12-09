@@ -24,17 +24,10 @@ https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
 https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Channel" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg"group-title="MOVISTAR CINE-SERIES",Paramount Channel
 https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Somos" tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/636a562e4919d_somos081122.jpg" group-title="MOVISTAR CINE-SERIES",Somos
-https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Dark" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/a/r/dark.jpg" group-title="MOVISTAR CINE-SERIES",Dark
-https://cache3.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg" group-title="MOVISTAR CINE-SERIES",Sundance
-https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="XTRM" tvg-logo="https://amcnetworks.es/wp-content/uploads/2013/06/XTRM-NUEVA-IMAGEN3.jpg" group-title="MOVISTAR CINE-SERIES",XTRM
-https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
+
+
 
 
 
