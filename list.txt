@@ -8,13 +8,9 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manif
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="TDT",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ Plus 2" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/09/movistar-plus-2.jpg" group-title="VOMISTAR +",M+ Plus 2
-http://627925387656654580.of1030ok.xyz:80/play/DJJUMBO2282/qFTtXu@9xm/654580.ts
-#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="VOMISTAR +",La Resistencia
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="MOVISTAR ENTRETENIMIENTO",La Resistencia
 http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
-#EXTINF:-1 tvg-id="El Garage TV" tvg-name="El Garage TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE" group-title="VOMISTAR +",El Garage TV
-http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(GARAGETV)/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="VOMISTAR +",FOX
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="MOVISTAR CINE-SERIES",FOX
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
@@ -24,8 +20,7 @@ https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
 https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Channel" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/p/a/r/paramount-channel.jpg"group-title="MOVISTAR CINE-SERIES",Paramount Channel
-https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
+
 
 
 
