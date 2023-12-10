@@ -3,16 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="MOVISTAR MUSICA",MTV ESPAÑA
-https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
-#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="MOVISTAR MUSICA",MTV
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="Spektra TV" tvg-logo="https://www.elmurcielago.es/images/demo/gallery/Spektra_TV.png" group-title="MOVISTAR MUSICA",Spektra TV
-https://cloudvideo.servers10.com:8081/8136/index.m3u8
-#EXTINF:-1 tvg-id="NICK MUSIC" tvg-name="NICK MUSIC" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/nick_music_200x200.png" group-title="MOVISTAR MUSICA",NICK MUSIC
-http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVMUSIC)/manifest.mpd
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="MOVISTAR MUSICA",Éxitos del Momento
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8
 
 
 
@@ -603,6 +593,15 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVMUSIC)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80842567ed5043a49f467658152e2e90:18b42d5637eae8c1624ff2edd79a95e1
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVROCKS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="MOVISTAR MUSICA",MTV ESPAÑA
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="MOVISTAR MUSICA",MTV
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="Spektra TV" tvg-logo="https://www.elmurcielago.es/images/demo/gallery/Spektra_TV.png" group-title="MOVISTAR MUSICA",Spektra TV
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="MOVISTAR MUSICA",Éxitos del Momento
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8
 
 #EXTINF:-1 tvg-id="MTVDANCE" group-title="MOVISTAR MUSICA" ch-number="77" tvg-logo="https://i.imgur.com/hmkrs7x.png" group-title="00. MOVISTAR MUSICA",MTV DANCE
 #KODIPROP:inputstream=inputstream.adaptive
