@@ -1,30 +1,31 @@
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TDT",TVE La1
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TDT",TVE La2
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="TDT",La Sexta
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="MOVISTAR ENTRETENIMIENTO",La Resistencia
-http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="MOVISTAR CINE-SERIES",FOX
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="I429.60690.zap2it.com" tvg-name="Trece TV" tvg-logo="https://brandemia.org/sites/default/files/inline/images/trece_logo_antes.jpg" group-title="TDT",Trece TV
-https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Energy" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png"group-title="TDT",Energy
-https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
 
-
-
-
-
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="M MUSICA",Mezzo
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/z/w/xmezzo-live.jpg.pagespeed.ic.F4oSLaom3_.jpg" group-title="M MUSICA",Mezzo Live
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="M MUSICA",MTV ESPAÑA
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="M MUSICA",MTV
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:256_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="MTVDANCE" tvg-name="MTV DANCE" tvg-logo="https://i.imgur.com/hmkrs7x.png" group-title="M MUSICA",MTV DANCE
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVDANCE)/manifest.mpd
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV HITS" tvg-logo="$" group-title="M MUSICA",MTV HITS
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/mtv_80s_200x200.png" group-title="M MUSICA",MTV 80s
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(VH1CLASSIC)/manifest.mpd
+#EXTINF:-1 tvg-id="MTV 90S" tvg-name="MTV 90S" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/MTV90s_200x200.png" group-title="M MUSICA",MTV 90S
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVROCKS)/manifest.mpd
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="Spektra TV" tvg-logo="https://www.elmurcielago.es/images/demo/gallery/Spektra_TV.png" group-title="M MUSICA",Spektra TV
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:-1 tvg-id="NICK MUSIC" tvg-name="NICK MUSIC" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/nick_music_200x200.png" group-title="M MUSICA",NICK MUSIC
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVMUSIC)/manifest.mpd
+#EXTINF:-1 tvg-id="HITTV" tvg-name="HIT TV" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/mtv_hits_200x200.png" group-title="M MUSICA",HIT TV
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(HITTV)/manifest.mpd
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="M MUSICA",Éxitos del Momento
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8
 
 
 
@@ -380,12 +381,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="TDT" ,La1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
-#EXTINF:-1 tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="TDT",La2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=52d3738871536dce27db50f044d3294a4c52253d
-#EXTINF:-1  tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" group-title="TDT",24 HORAS
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2191383ed85d20f5f6759785e14a4aff8a3ab8f4
+
+
+
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -394,6 +392,20 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2191383ed85d20f5f6759785e14a4aff8a3ab
 https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="TDT",BE MAD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TDT",TVE La1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TDT",TVE La2
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="TDT",La Sexta
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="MOVISTAR ENTRETENIMIENTO",La Resistencia
+http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="MOVISTAR CINE-SERIES",FOX
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Esport3 CAT" group-title="MOVISTAR CANALES AUTONOMICOS" ch-number="164" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP3" group-title=" 00. MOVISTAR CANALES AUTONOMICOS",Esport3 CAT
