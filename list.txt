@@ -463,22 +463,35 @@ https://ott.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.m
 #EXTINF:-1 tvg-id="Comedy Central" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="00. MOVISTAR ENTRETENIMIENTO",Comedy Central
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61023
 
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 2 FHD 
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 2 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61048
 
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR DEPORTE" tvg-logo="https://www.contenidostv.es/images/betis.png" group-title="00. MOVISTAR DEPORTE",Betis TV
+https://streamer.zapitv.com/betis/index.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR DEPORTE" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/sevilla-fc-televisi%C3%B3n-en-directo.png" group-title="00. MOVISTAR DEPORTE",Sevilla FC TV
+https://streamer.zapitv.com/sevillafc/index.mpd
 
 #EXTINF:-1 tvg-id="MOVISTAR + " group-title="MOVISTAR DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/2560px-Movistar_Plus%2B_2022_logo.svg.png" group-title="00. MOVISTAR DEPORTES",MOVISTAR +
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61054
 
+#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org" group-title="MOVISTAR DEPORTE" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="00. MOVISTAR DEPORTES",World Padel Tour
+https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="M+ Deportes 3" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 3 FHD 
+#EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 3 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61049
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 4 FHD
+#EXTINF:-1 tvg-id="M+ Deportes 4" ggroup-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 4 FHD
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
 
-#EXTINF:-1 tvg-id="M+ Deportes 5" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 5 FHD 
+#EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 5 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61051
+
+#EXTINF:-1 tvg-id="ESPN LatinoAmerica HD" group-title="MOVISTAR DEPORTE" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="00. MOVISTAR DEPORTE",ESPN 1
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/71928
+#EXTINF:-1 tvg-id="ESPN 2 Latinoamerica" group-title="MOVISTAR DEPORTE" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="00. MOVISTAR DEPORTE",ESPN 2
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/71929
+#EXTINF:-1 tvg-id="ESPN 3 Latinoamerica" group-title="MOVISTAR DEPORTE" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png" group-title="00. MOVISTAR DEPORTE",ESPN 3
+http://tvbox.ovh:37500/NABILGOLD/E3e6kukLeZ/71930
 
 #EXTINF:-1 tvg-id="DAZN LaLiga " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png"  group-title="MOVISTAR DAZN",DAZN LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
