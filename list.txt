@@ -496,10 +496,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png" group-title="MOVISTAR DAZN",Dazn LaLiga
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn LaLiga (OPC.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="MOVISTAR DAZN",Dazn LaLiga (OPC.2)
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="MOVISTAR DAZN",Dazn LaLiga 2
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/201
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="MOVISTAR DAZN",DAZN 2
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png" group-title="MOVISTAR DAZN",DAZN 3
