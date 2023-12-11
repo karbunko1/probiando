@@ -360,10 +360,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 
 
 
-#EXTINF:-1 tvg-id="ext" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TDT",24 Horas
-https://ott.zapitv.com/live/eds_c2/24h_tve/dash_live_enc/24h_tve.mpd
-#EXTINF:-1 tvg-id="ext" group-title="TDT" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telemadrid-logo-png-transparent.png" group-title="TDT",Telemadrid 
-https://ott.zapitv.com/live/eds_c2/tele_madrid_hd/dash_live_enc/tele_madrid_hd.mpd
+
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
