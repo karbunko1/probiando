@@ -494,12 +494,8 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png" group-title="MOVISTAR DAZN",Dazn LaLiga
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="MOVISTAR DAZN",DAZN 2
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png" group-title="MOVISTAR DAZN",DAZN 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+
+
 
 
 #EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 1
