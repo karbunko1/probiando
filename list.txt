@@ -480,19 +480,31 @@ https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title=" MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 5 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61051
 
-#EXTINF:-1 tvg-id="DAZN LaLiga " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png"  group-title="00. MOVISTAR DAZN",DAZN LaLiga HD 
+#EXTINF:-1 tvg-id="DAZN LaLiga " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png"  group-title="MOVISTAR DAZN",DAZN LaLiga HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png"  group-title="00. MOVISTAR DAZN ",DAZN 1 HD 
+#EXTINF:-1 tvg-id="DAZN 1 " group-title="MOVISTAR DAZN" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png"  group-title="MOVISTAR DAZN",DAZN 1 HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn LaLiga" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png" group-title="MOVISTAR DAZN",Dazn LaLiga
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn LaLiga (OPC.2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="MOVISTAR DAZN",Dazn LaLiga (OPC.2)
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="Dazn LaLiga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="MOVISTAR DAZN",Dazn LaLiga 2
+http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/201
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="MOVISTAR DAZN",DAZN 2
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png" group-title="MOVISTAR DAZN",DAZN 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+
 
 #EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 1
 http://50.7.168.106:8000/live/vi321198/jyfxADhbnTMB/595391.m3u8?token=H0EMV0RQRl8UVF1XAlcBAAdWBglRCFYAAg8ED1BbBQZUUFMEUQlWVQVDFRZAFkBdBw48WFASDVEMAlUBUhQXRhcGFmleXEZfFFAADANaBhpKQRdYWVUVXgUbREgKXBcJRlJdAQ8MRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFFBHRZdWApcQwlKPEhcV0ZZRgcDClxRFBw=
