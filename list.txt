@@ -360,8 +360,10 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 
 
 
-
-
+#EXTINF:-1 tvg-id="ext" group-title="TDT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TDT",24 Horas
+https://ott.zapitv.com/live/eds_c2/24h_tve/dash_live_enc/24h_tve.mpd
+#EXTINF:-1 tvg-id="ext" group-title="TDT" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telemadrid-logo-png-transparent.png" group-title="TDT",Telemadrid 
+https://ott.zapitv.com/live/eds_c2/tele_madrid_hd/dash_live_enc/tele_madrid_hd.mpd
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -390,6 +392,26 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manif
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="MOVISTAR CANALES AUTONOMICOS",Canal Sur Andalucía
+https://bl01.cdn.avatel.tv/live/eds/andaluciatv/MPEG-DASH_Scrambled_Middle/andaluciatv.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Sur" tvg-logo="https://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg" group-title="MOVISTAR CANALES AUTONOMICOS",Canal Sur
+https://ott.zapitv.com/live/eds_c2/canal_sur_hd/dash_live_enc/canal_sur_hd.mpd
+#EXTINF:-1 tvg-id="Andalucia TV" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="MOVISTAR CANALES AUTONOMICOS",Andalucía TV
+https://tvup-gra-livegeo.secure2.footprint.net/andaluciatv/andaluciatv.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" group-title="MOVISTAR CANALES AUTONOMICOS",Canal Extremadura Sat
+https://ott.zapitv.com/live/eds_c2/extremadura_tv/dash_live_enc/extremadura_tv.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Siete.svg/1200px-Siete.svg.png" group-title="MOVISTAR CANALES AUTONOMICOS",La 7
+https://tvup-gra-livegeo.secure2.footprint.net/7cyltv/7cyltv.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://www.bglaudiovisual.com/img/articles/tv-7-region-de-murcia-subtitulacion-867281066-1.jpg" group-title="MOVISTAR CANALES AUTONOMICOS",7 TV Región Murcia
+https://tvup-gra-livegeo.secure2.footprint.net/7rmhd/7rmhd.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="MOVISTAR CANALES AUTONOMICOS",TV3 Cat
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG -TV Galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo%2BTVG.svg/1024px-Logo%2BTVG.svg.png" group-title="M AUTONOMICOS",TVG -TV Galicia
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:47_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="TPA" tvg-logo="https://static-media.streema.com/media/cache/54/c0/54c0b5e26a7d69bbb3238b64afe57198.jpg" group-title="MOVISTAR CANALES AUTONOMICOS",TPA
+https://tvup-gra-livegeo.secure2.footprint.net/tpa7/tpa7.mpd
 
 #EXTINF:-1 tvg-id="AFV Español" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="00.MOVISTAR ENTRETENIMIENTO",AFV Español
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
