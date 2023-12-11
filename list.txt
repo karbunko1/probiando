@@ -10,16 +10,10 @@ https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/pu
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
-#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ Laliga 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-3-1837.png" group-title="LA LIGA",M+ Laliga 3
-http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/336260
-#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+ Laliga 4" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="LA LIGA",M+ Laliga 4
-http://flashprinttv.com:2086/7dZB2KPPEddT/e2aeBYdeHmC2/445400
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LaLiga TV Andorra" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" group-title="LA LIGA",LaLiga TV Andorra
-https://tvup-gra-livegeo.secure2.footprint.net/laligatv/laligatv.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LaLiga TV Andorra 2" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" group-title="LA LIGA",LaLiga TV Andorra 2
-https://tvup-gra-livegeo.secure2.footprint.net/laliga1/laliga1.mpd
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="LaLigaTV Bar" tvg-logo="https://storage.googleapis.com/laligatvbar/assets/img/taquillas/bg-24h-2023-01.png" group-title="LA LIGA",LaLigaTV Bar
-https://d35mjah5qtqcj5.cloudfront.net/ligaeasports_24h/ligaeasports_24h.mpd
+
+
+
+
 
 
 
