@@ -480,7 +480,7 @@ https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 3 FHD 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61049
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" ggroup-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 4 FHD
+#EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 4 FHD
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61050
 
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTE" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="00. MOVISTAR DEPORTE",M+ DEPORTES 5 FHD 
