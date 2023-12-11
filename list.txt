@@ -6,17 +6,10 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="Eventos de motor" tvg-logo="https://i.ibb.co/71RQmYh/MJ-MGP.jpg" group-title="MANUJAZ SPORT",Eventos de motor
 https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-11-25T16:25:00.000Z
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" group-title="LA LIGA",M Laliga
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" group-title="MOVISTAR  LIGA",M Laliga
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="LA LIGA",M+ Laliga 2
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title=" MOVISTAR LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES : LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
