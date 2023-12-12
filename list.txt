@@ -113,6 +113,25 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Eventos de motor" tvg-logo="https://i.ibb.co/71RQmYh/MJ-MGP.jpg" group-title="MANUJAZ SPORT",Eventos de motor
 https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-11-25T16:25:00.000Z
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2
+http://gotv.vip:8880/junior12/junior12/145939
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3
+http://gotv.vip:8880/junior12/junior12/145942
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4
+http://gotv.vip:8880/junior12/junior12/145943
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 14" tvg-name="M+ Liga de Campeones 14" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP13" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 14
+https://14campeones-dash-movistarplus.emisiondof6.com/dash/14campeonesor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 15" tvg-name="M+ Liga de Campeones 15" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP14" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 15
+https://15campeones-dash-movistarplus.emisiondof6.com/dash/15campeonesor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 16" tvg-name="M+ Liga de Campeones 16" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP15" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 16
+https://16campeones-dash-movistarplus.emisiondof6.com/dash/16campeonesor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 17" tvg-name="M+ Liga de Campeones 17" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP16" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 17
+https://17campeones-dash-movistarplus.emisiondof6.com/dash/17campeonesor.isml/manifest.mpd
+#EXTINF:-1 tvg-id="M+ Liga de Campeones BAR" tvg-name="M+ Liga de Campeones BAR" tvg-logo="https://storage.googleapis.com/laligatvbar/assets/img/taquillas/champions.jpg" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones BAR
+https://occ08ll.ak.video.laligatvbar.es/dash/live-ull/2031780/ligabares_ch08/ligabares_ch08.mpd
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="MOVISTAR LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
 #EXTINF:-1 tvg-id="La Liga TV Bar" tvg-name="La Liga TV Bar" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="MOVISTAR LA LIGA",La Liga TV Bar
