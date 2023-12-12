@@ -116,6 +116,8 @@ https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/pu
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2
 http://gotv.vip:8880/junior12/junior12/145939
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46537
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="MOVISTAR LA LIGA",M+ Laliga 2
