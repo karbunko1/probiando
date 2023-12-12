@@ -1,5 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="ARENA SPORT 1" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_1.png" group-title="ARENA SPORT",ARENA SPORT 1
+https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="ARENA SPORT 2" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_2.png" group-title="ARENA SPORT",ARENA SPORT 2
+https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="ARENA SPORT 3" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_3.png" group-title="ARENA SPORT",ARENA SPORT 3
+https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="ARENA SPORT 4" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_4.png" group-title="ARENA SPORT",ARENA SPORT 4
+https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
+#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-name="ARENA SPORT 5" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_5.png" group-title="ARENA SPORT",ARENA SPORT 5
+https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-name="ARENA SPORT 6" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_6.png" group-title="ARENA SPORT",ARENA SPORT 6
+https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
+#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-name="ARENA SPORT 1x2" tvg-logo="https://www.ion.tv/wp-content/uploads/2022/12/Arena-Sport-1X2.jpg" group-title="ARENA SPORT",ARENA SPORT 1x2
+https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-name="ARENA SPORT PREMIUM 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Arena-1-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133001" group-title="ARENA SPORT",ARENA SPORT PREMIUM 1
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-name="ARENA SPORT PREMIUM 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="ARENA SPORT",ARENA SPORT PREMIUM 2
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-name="ARENA SPORT PREMIUM 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Arena-3-premium_480x2701.png/revision/latest/scale-to-width-down/300?cb=20221111133207" group-title="ARENA SPORT",ARENA SPORT PREMIUM 3
+https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Kidz" tvg-logo="https://www.shutterstock.com/image-vector/kids-tv-design-logo-template-260nw-1885716433.jpg" group-title="MOVISTAR INFANTILES",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
@@ -9,8 +29,6 @@ http://ss11wss23.galletas.ru:8080/7AD84047WD843915X/F8cKAwglRD/49135
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemachi Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2jYfpybpWbGzxACF373fse2NeaglYRTNWA&usqp=CAU" group-title="MOVISTAR INFANTILES",Cinemachi Kids
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="ext" tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/6UTSdAi.png" group-title="MOVISTAR INFANTILES",TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/9JEnv7G.png" group-title="MOVISTAR INFANTILES",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
