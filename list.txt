@@ -114,10 +114,30 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-11-25T16:25:00.000Z
 
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 2
 http://gotv.vip:8880/junior12/junior12/145939
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 3
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46537
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46628
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="MOVISTAR LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46629
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="MOVISTAR LIGA DE CAMPEONES 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46630
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="MOVISTAR LIGA DE CAMPEONES 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46631
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="MOVISTAR LIGA DE CAMPEONES 8" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46632
+#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="MOVISTAR LIGA DE CAMPEONES 9" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46633
+#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="MOVISTAR LIGA DE CAMPEONES 10" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46634
+#EXTINF:-1 tvg-id="M+LCAMPEON11" tvg-name="MOVISTAR LIGA DE CAMPEONES 11" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP10.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 11
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46635
+#EXTINF:-1 tvg-id="M+LCAMPEON12" tvg-name="MOVISTAR LIGA DE CAMPEONES 12" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP11.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 12
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46636
+#EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="MOVISTAR LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46637
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="MOVISTAR LA LIGA",M+ Laliga 2
