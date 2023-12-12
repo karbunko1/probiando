@@ -115,6 +115,10 @@ https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/pu
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title=" MOVISTAR LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title=" MOVISTAR LA LIGA",M+ Laliga 
+http://672383634670268042.of1030ok.xyz:80/play/vi0210254/pTHg@YmFYV/268042.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title=" MOVISTAR LA LIGA",M+ Laliga 3
+http://672383634670320785.of1030ok.xyz:80/play/vi0210254/pTHg@YmFYV/320785.ts
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES : LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png" group-title="ZAPEANDO MOVISTAR IPTV",ES : LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
