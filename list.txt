@@ -1,13 +1,40 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Baby TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="MOVISTAR INFANTILES",Baby TV
+https://tvup-gra-livegeo.secure2.footprint.net/babytv/babytv.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="MOVISTAR INFANTILES",Disney Junior
+https://tvup-gra-livegeo.secure2.footprint.net/disneyjr/disneyjr.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="EnFamilia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="MOVISTAR INFANTILES",EnFamilia
+https://ott.zapitv.com/live/eds_c2/enfamilia/dash_live_enc/enfamilia.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Kidz" tvg-logo="https://www.shutterstock.com/image-vector/kids-tv-design-logo-template-260nw-1885716433.jpg" group-title="M INFANTILES",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="MOVISTAR INFANTILES",NICK JR
+https://tvup-gra-livegeo.secure2.footprint.net/nickjr/nickjr.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="MOVISTAR INFANTILES",Nickelodeon
+https://tvup-gra-livegeo.secure2.footprint.net/nickelodeon/nickelodeon.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="Dreamworks" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="MOVISTAR INFANTILES",Dreamworks
+http://ss11wss23.galletas.ru:8080/7AD84047WD843915X/F8cKAwglRD/49135
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="MOVISTAR INFANTILES",Disney Channel
+https://tvup-gra-livegeo.secure2.footprint.net/disneychannel6/disneychannel6.mpd
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="MOVISTAR INFANTILES",Boing
+https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
+#EXTINF:-1 tvg-id="Clan" tvg-name="Clan TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="M INFANTILES",Clan TVE
+https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="https://roams.es/images/post/es_ES_telco/companias-telefonicas-euskaltel-guias-clientes-comedy-central.jpg" group-title="M INFANTILES",Comedy Central
+https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
+#EXTINF:-1 tvg-id="ext" tvg-name="CARTOONS" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="MOVISTAR INFANTILES",CARTOONS
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemachi Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2jYfpybpWbGzxACF373fse2NeaglYRTNWA&usqp=CAU" group-title="MOVISTAR INFANTILES",Cinemachi Kids
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="ext" tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/6UTSdAi.png" group-title="MOVISTAR INFANTILES",TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/9JEnv7G.png" group-title="MOVISTAR INFANTILES",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Eventos de motor" tvg-logo="https://i.ibb.co/71RQmYh/MJ-MGP.jpg" group-title="MANUJAZ SPORT",Eventos de motor
 https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-11-25T16:25:00.000Z
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" group-title="MOVISTAR LA LIGA",M Laliga
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title=" MOVISTAR LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
 
