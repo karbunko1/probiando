@@ -1,22 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 
 
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="MOVISTAR INFANTILES",Disney Junior
-https://tvup-gra-livegeo.secure2.footprint.net/disneyjr/disneyjr.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="EnFamilia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="MOVISTAR INFANTILES",EnFamilia
-https://ott.zapitv.com/live/eds_c2/enfamilia/dash_live_enc/enfamilia.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Kidz" tvg-logo="https://www.shutterstock.com/image-vector/kids-tv-design-logo-template-260nw-1885716433.jpg" group-title="M INFANTILES",Kidz
+#EXTINF:-1 tvg-id="ext" tvg-name="Kidz" tvg-logo="https://www.shutterstock.com/image-vector/kids-tv-design-logo-template-260nw-1885716433.jpg" group-title="MOVISTAR INFANTILES",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="MOVISTAR INFANTILES",NICK JR
 https://tvup-gra-livegeo.secure2.footprint.net/nickjr/nickjr.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Nickelodeon" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="MOVISTAR INFANTILES",Nickelodeon
-https://tvup-gra-livegeo.secure2.footprint.net/nickelodeon/nickelodeon.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Dreamworks" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="MOVISTAR INFANTILES",Dreamworks
 http://ss11wss23.galletas.ru:8080/7AD84047WD843915X/F8cKAwglRD/49135
-#EXTINF:-1 tvg-id="Clan" tvg-name="Clan TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="MOVISTAR INFANTILES",Clan TVE
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="https://roams.es/images/post/es_ES_telco/companias-telefonicas-euskaltel-guias-clientes-comedy-central.jpg" group-title="M INFANTILES",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="https://roams.es/images/post/es_ES_telco/companias-telefonicas-euskaltel-guias-clientes-comedy-central.jpg" group-title="MOVISTAR INFANTILES",Comedy Central
 https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="CARTOONS" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="MOVISTAR INFANTILES",CARTOONS
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
