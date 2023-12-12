@@ -3,12 +3,8 @@
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Kidz" tvg-logo="https://www.shutterstock.com/image-vector/kids-tv-design-logo-template-260nw-1885716433.jpg" group-title="MOVISTAR INFANTILES",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="MOVISTAR INFANTILES",NICK JR
-https://tvup-gra-livegeo.secure2.footprint.net/nickjr/nickjr.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Dreamworks" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="MOVISTAR INFANTILES",Dreamworks
 http://ss11wss23.galletas.ru:8080/7AD84047WD843915X/F8cKAwglRD/49135
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="https://roams.es/images/post/es_ES_telco/companias-telefonicas-euskaltel-guias-clientes-comedy-central.jpg" group-title="MOVISTAR INFANTILES",Comedy Central
-https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="CARTOONS" tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="MOVISTAR INFANTILES",CARTOONS
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemachi Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2jYfpybpWbGzxACF373fse2NeaglYRTNWA&usqp=CAU" group-title="MOVISTAR INFANTILES",Cinemachi Kids
