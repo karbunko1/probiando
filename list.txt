@@ -489,22 +489,57 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",TELECINCO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/3317956052/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",ANTENA 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/777383908/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",NOVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/299753906/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",24 HORAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/547278105/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",TELEMADRID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/3174351363/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/202134212/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",DKISS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/2433220901/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",TELEDEPORTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/2985409184/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR TDT",TRECE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/1549715822/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="MOVISTAR TDT",Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
+#EXTINF:-1 tvg-id="LaOtra" group-title="MOVISTAR TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="MOVISTAR TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
 https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="TDT",BE MAD
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TDT",TVE La1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TDT",TVE La2
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="TDT",La Sexta
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="MOVISTAR TDT",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia" tvg-logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" group-title="MOVISTAR ENTRETENIMIENTO",La Resistencia
 http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="MOVISTAR CINE-SERIES",FOX
@@ -763,6 +798,8 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c158a75ffdedb3725862bc2781cc37b:21003ef5f3c9cfc278307d6c8329898c
 https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
 
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="https://www.ecured.cu/images/thumb/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg/260px-Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg" group-title="MOVISTAR CINE-SERIES",BE MAD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.mpd
 #EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",SYFY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
@@ -783,7 +820,7 @@ http://kool.to/play/530526559/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/3849682210/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title="CINE Y SERIES",BOM CINE
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",BOM CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/4050401589/index.m3u8
