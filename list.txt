@@ -117,10 +117,10 @@ https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/pu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/4215248680/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 HD 
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES 2 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/3288738949/index.m3u8
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/3288738949/index.m3u8
 #EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 3
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46537
 #EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 4
