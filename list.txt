@@ -533,9 +533,9 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
 https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="TDT",TVE La1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="TVE La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="MOVISTAR TDT",TVE La1
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TDT",TVE La2
+#EXTINF:-1 tvg-id="La 2" tvg-name="TVE La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="MOVISTAR TDT",TVE La2
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="MOVISTAR TDT",La Sexta
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.mpd
