@@ -777,24 +777,18 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c158a75ffdedb3725862bc2781cc37b:21003ef5f3c9cfc278307d6c8329898c
 https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
 
-#EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="00. MOVISTAR CINE-SERIES",AXN
+#EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="MOVISTAR CINE-SERIES",AXN
 http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
-
 #EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MOVISTAR CINE-SERIES",Hollywood
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="MOVISTAR CINE-SERIES",Calle 13
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="Cine Feel Good Verdi TV" group-title="MOVISTAR CINE-SERIES" ch-number="99" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c335178a6158002173130d.png", group-title="MOVISTAR CINE-SERIES", Cine Feel Good Verdi TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b9e64ec5c7646998585db86a10f3aa3:78be574c36ce9529b40f96f50c9cc973
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FEELGOOD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="FOX" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="MOVISTAR CINE-SERIES",FOX 
-https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
 #EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="MOVISTAR CINE-SERIES",TCM
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="COSMOS" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
