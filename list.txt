@@ -480,8 +480,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : Aragón Deporte
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/68436
 
-
-
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="NAT GEO WILD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" ,Nat Geo Wild  
@@ -490,8 +488,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-
-
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
@@ -638,9 +634,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 
-
-
-
 #EXTINF:-1 tvg-id="FefTV 1" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 1
 http://50.7.168.106:8000/live/vi321198/jyfxADhbnTMB/595391.m3u8?token=H0EMV0RQRl8UVF1XAlcBAAdWBglRCFYAAg8ED1BbBQZUUFMEUQlWVQVDFRZAFkBdBw48WFASDVEMAlUBUhQXRhcGFmleXEZfFFAADANaBhpKQRdYWVUVXgUbREgKXBcJRlJdAQ8MRkkUBEFAVhBcWQo8B1RCWVQBFw0ITQ9UGRELDTtSUlUFC1JDAxYCQB4aDxATEw5eQghZG0RaCkxHUhAGRgwVCEZJFAJWQV0WQEFEWUF0ZxIbRlBPEl0NS1xcCkFeFFoLEV0UTRtdQD1AXRUXEVRVXVIWFw1ECEEUF14FGztVWFYKAFUVUFtdERACRFFBHRZdWApcQwlKPEhcV0ZZRgcDClxRFBw=
 #EXTINF:-1 tvg-id="FefTV 2" group-title="MOVISTAR FEF" tvg-logo="https://www.europasur.es/2023/08/21/deportes/algecirascf/nueva-plataforma-FEF-TV_1822628749_191127440_667x375.jpg" group-title="00. MOVISTAR FEF",Feftv 2
@@ -771,10 +764,6 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
 https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
 
 
-#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",SYFY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/1018112220/index.m3u8
 #EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",SYFY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
