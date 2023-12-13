@@ -113,9 +113,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Eventos de motor" tvg-logo="https://i.ibb.co/71RQmYh/MJ-MGP.jpg" group-title="MANUJAZ SPORT",Eventos de motor
 https://d1lra7m3wxhho9.cloudfront.net/out/v1/0708567721cc4081a48d8b21a5bf58a9/push7eu_1.m3u8?start=2023-11-25T16:25:00.000Z
 
-
-#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 2
-http://gotv.vip:8880/junior12/junior12/145939
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA CAMPEONES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/4215248680/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/3288738949/index.m3u8
 #EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 3
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46537
 #EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 4
@@ -138,7 +143,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46635
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46636
 #EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="MOVISTAR LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="MOVISTAR LIGA DE CAMPEONES",LIGA DE CAMPEONES 13
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46637
-
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ Laliga 2" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="MOVISTAR LA LIGA",M+ Laliga 2
 http://343963829195165398.of1030ok.xyz:80/play/VGRJWB97BV/3thNwuJDPPjp/165398.ts
