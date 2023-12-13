@@ -479,14 +479,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67982
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="ZAPEANDO MOVISTAR IPTV",ES : Aragón Deporte
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/68436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd definitivo" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",fhd definitivo
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD DEFINITIVO" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",HD DEFINITIVO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sd final" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",sd final
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fhd a 4k" tvg-logo="" group-title="ZAPEANDO MOVISTAR IPTV",fhd a 4k
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49474
+
 
 
 #EXTINF:-1 group-title="MOVISTAR HISTORIA" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia  
@@ -778,16 +771,7 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
 https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
 
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="M+ AXN MOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="MOVISTAR CINE-SERIES",M+ AXN MOVIES
-http://kool.to/play/309252877/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="M+ AXN WHITE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="MOVISTAR CINE-SERIES",M+ AXN WHITE
-http://kool.to/play/3849682210/index.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="M+ AMC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png" group-title="MOVISTAR CINE-SERIES",M+ AMC
-http://kool.to/play/1403896971/index.m3u8
-#EXTINF:-1 tvg-id="BOM" tvg-name="M+ BOM" tvg-logo="https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_400x400.jpg" group-title="MOVISTAR CINE-SERIES",M+ BOM
-http://kool.to/play/4050401589/index.m3u8
-#EXTINF:-1 tvg-id="BOM" tvg-name="M+ ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="MOVISTAR CINE-SERIES",M+ ESTRENOS
-http://kool.to/play/1530605876/index.m3u8
+
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="MOVISTAR CINE-SERIES",AXN
 http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
 #EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MOVISTAR CINE-SERIES",Hollywood
@@ -804,10 +788,7 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FEELGOOD)/manifest.mpd
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="COSMOS" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="ACCIÓN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png" group-title="MOVISTAR CINE-SERIES",ACCIÓN
-http://kool.to/play/927664097/index.m3u8
-#EXTINF:-1 tvg-id="DRAMA" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="MOVISTAR CINE-SERIES",DRAMA
-http://kool.to/play/530526559/index.m3u8
+
 #EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="MOVISTAR CINE-SERIES",Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
