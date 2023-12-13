@@ -500,7 +500,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 
 
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="LaOtra" group-title="TDT" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA" group-title="TDT",LaOtra
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -519,11 +520,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/mani
 http://607145121490321286.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321286.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="MOVISTAR CINE-SERIES",FOX
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:248_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="TDT",Neox
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="Esport3 CAT" group-title="MOVISTAR CANALES AUTONOMICOS" ch-number="164" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP3" group-title=" 00. MOVISTAR CANALES AUTONOMICOS",Esport3 CAT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -531,7 +527,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manif
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MOVISTAR CANALES AUTONOMICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="MOVISTAR CANALES AUTONOMICOS",TV3 Cat
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:78_HD.smil/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="AFV Español" group-title="MOVISTAR ENTRETENIMIENTO" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="00.MOVISTAR ENTRETENIMIENTO",AFV Español
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-5ef4e1b10d9ad000423c4421.m3u8
@@ -785,26 +780,30 @@ https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mp
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="00. MOVISTAR CINE-SERIES",AXN
 http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
 
-#EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="00. MOVISTAR CINE-SERIES",Hollywood
+#EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MOVISTAR CINE-SERIES",Hollywood
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:82_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Calle 13" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="MOVISTAR CINE-SERIES",Calle 13
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cine Feel Good Verdi TV" group-title="MOVISTAR CINE-SERIES" ch-number="99" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c335178a6158002173130d.png", group-title="00. MOVISTAR CINE-SERIES", Cine Feel Good Verdi TV
+#EXTINF:-1 tvg-id="Cine Feel Good Verdi TV" group-title="MOVISTAR CINE-SERIES" ch-number="99" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c335178a6158002173130d.png", group-title="MOVISTAR CINE-SERIES", Cine Feel Good Verdi TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b9e64ec5c7646998585db86a10f3aa3:78be574c36ce9529b40f96f50c9cc973
 http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FEELGOOD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="FOX" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="00. MOVISTAR CINE-SERIES",FOX 
+#EXTINF:-1 tvg-id="FOX" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="MOVISTAR CINE-SERIES",FOX 
 https://ultrapremium.cloud:8443/JimaraPlus/GApBHqSUvBfc/61030
-
-#EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="00. MOVISTAR CINE-SERIES",TCM
+#EXTINF:-1 tvg-id="TCM" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="MOVISTAR CINE-SERIES",TCM
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:70_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="00. MOVISTAR CINE-SERIES",Warner TV
+#EXTINF:-1 tvg-id="COSMOS" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="MOVISTAR CINE-SERIES",COSMO
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="ACCIÓN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png" group-title="MOVISTAR CINE-SERIES",ACCIÓN
+http://kool.to/play/927664097/index.m3u8
+#EXTINF:-1 tvg-id="DRAMA" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="MOVISTAR CINE-SERIES",DRAMA
+http://kool.to/play/530526559/index.m3u8
+#EXTINF:-1 tvg-id="Warner TV" group-title="MOVISTAR CINE-SERIES" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="MOVISTAR CINE-SERIES",Warner TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
