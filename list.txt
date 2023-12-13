@@ -777,6 +777,17 @@ http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c158a75ffdedb3725862bc2781cc37b:21003ef5f3c9cfc278307d6c8329898c
 https://cache2.zapitv.com/live/eds_c2/all_flamenco/dash_live_enc/all_flamenco.mpd
 
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="M+ AXN MOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="MOVISTAR CINE-SERIES",M+ AXN MOVIES
+http://kool.to/play/309252877/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="M+ AXN WHITE" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png" group-title="MOVISTAR CINE-SERIES",M+ AXN WHITE
+http://kool.to/play/3849682210/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="M+ AMC" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png" group-title="MOVISTAR CINE-SERIES",M+ AMC
+http://kool.to/play/1403896971/index.m3u8
+#EXTINF:-1 tvg-id="BOM" tvg-name="M+ BOM" tvg-logo="https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_400x400.jpg" group-title="MOVISTAR CINE-SERIES",M+ BOM
+http://kool.to/play/4050401589/index.m3u8
+#EXTINF:-1 tvg-id="BOM" tvg-name="M+ ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png" group-title="MOVISTAR CINE-SERIES",M+ ESTRENOS
+http://kool.to/play/1530605876/index.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="MOVISTAR CINE-SERIES",AXN
 http://pinkpanther.uk:8080/dA98C6ZSWUDm/ZmP5C8j3YxdF/2815
 #EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="MOVISTAR CINE-SERIES" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MOVISTAR CINE-SERIES",Hollywood
