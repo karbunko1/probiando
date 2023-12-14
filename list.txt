@@ -113,10 +113,6 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="ext" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/9JEnv7G.png" group-title="MOVISTAR INFANTILES",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",CLAN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/666061580/index.m3u8
 #EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
@@ -145,18 +141,6 @@ http://kool.to/play/1417061829/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/231174876/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/3422195162/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",CANAL PANDA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/1093528068/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/3642280714/index.m3u8
 #EXTINF:-1, tvg-id="ext" group-title=" MOVISTAR INFANTILES",NICK JUNIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
@@ -561,6 +545,10 @@ http://kool.to/play/2310841113/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/2813972847/index.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",EN FAMILIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://kool.to/
+http://kool.to/play/1093528068/index.m3u8
 #EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",SKY CINEMA ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
