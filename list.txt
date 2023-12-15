@@ -513,10 +513,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
 http://kool.to/play/1018112220/index.m3u8
-#EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",ATRESERIES HD
+#EXTINF:-1, group-title="MOVISTAR CINE-SERIES",ATRESERIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://kool.to/
-http://kool.to/play/401201145/index.m3u8
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/2286339534/index.m3u8
 #EXTINF:-1, tvg-id="ext" group-title="MOVISTAR CINE-SERIES",M+ DRAMA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://kool.to/
