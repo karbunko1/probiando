@@ -1,0 +1,331 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz, https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true, "
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#0 HD" tvg-logo="" group-title="MOVISTAR + ",#0 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4221.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 TV" tvg-logo="" group-title="MOVISTAR TDT",13 TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4335.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Horas" tvg-logo="" group-title="MOVISTAR TDT",24 Horas
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4265.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5RTV Santa Fe" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",5RTV Santa Fe
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4340.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7 Murcia" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",7 Murcia
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4327.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A3SERIES HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",A3SERIES HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4237.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alcarria TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Alcarria TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",AMC HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4233.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3 HD" tvg-logo="" group-title="MOVISTAR TDT",Antena 3 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4217.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aragón TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Aragón TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4324.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",AXN HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4224.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN White HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",AXN White HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4225.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABY TV" tvg-logo="" group-title="MOVISTAR DIBUJOS",BABY TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BE MAD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",BE MAD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4234.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLAZE" tvg-logo="" group-title="MOVISTAR DIBUJOS",BLAZE
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4285.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOING" tvg-logo="" group-title="MOVISTAR DIBUJOS",BOING
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4276.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadena Elite" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Cadena Elite
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calle 13 HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Calle 13 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 33 Madrid HD" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Canal 33 Madrid HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4325.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Málaga" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Canal Málaga
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4326.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL ORBE21" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",CANAL ORBE21
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4332.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal PANDA" tvg-logo="" group-title="MOVISTAR DIBUJOS",Canal PANDA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Sur Andalucia" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Canal Sur Andalucia
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4293.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caza y Pesca HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Caza y Pesca HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4268.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLAN" tvg-logo="" group-title="MOVISTAR TDT",CLAN
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLASSICA" tvg-logo="" group-title="MOVISTAR MUSICA",CLASSICA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4333.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COCINA  HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",COCINA  HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4351.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="" group-title="(no group)",Comedy Central HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4236.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Condavision HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Condavision HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4339.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cosmo HD" tvg-logo="" group-title="(no group)",Cosmo HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4229.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMEN + INVESTIGACION" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",CRIMEN + INVESTIGACION
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4270.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cuatro HD" tvg-logo="" group-title="MOVISTAR TDT",Cuatro HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4218.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dark HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Dark HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4329.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dazn 1" tvg-logo="" group-title="MOVISTAR DAZN",Dazn 1
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4273.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DECASA" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",DECASA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4275.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DECASA  HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",DECASA  HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4352.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",DISCOVERY
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4272.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY +" tvg-logo="" group-title="MOVISTAR DIBUJOS",DISNEY +
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4279.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="MOVISTAR DIBUJOS",Disney Channel
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4281.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR" tvg-logo="" group-title="MOVISTAR DIBUJOS",DISNEY JR
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIVINITY" tvg-logo="" group-title="MOVISTAR TDT",DIVINITY
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4289.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DKISS" tvg-logo="" group-title="MOVISTAR TDT",DKISS
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4288.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eitb - P.Vasco (PV)" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Eitb - P.Vasco (PV)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4341.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGY" tvg-logo="" group-title="MOVISTAR TDT",ENERGY
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4230.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 HD" tvg-logo="" group-title="(no group)",ETB 1 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="MOVISTAR EUROSPORT",EUROSPORT 1 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4258.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="" group-title="MOVISTAR EUROSPORT",EUROSPORT 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4259.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FDF" tvg-logo="" group-title="MOVISTAR TDT",FDF
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4231.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Fox HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4222.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Fox Life HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4223.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV" tvg-logo="" group-title="MOVISTAR TDT",GOL TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4264.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA" tvg-logo="" group-title="MOVISTAR HISTORIA",HISTORIA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4271.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA HD" tvg-logo="" group-title="MOVISTAR HISTORIA",HISTORIA HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4353.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIT TV" tvg-logo="" group-title="MOVISTAR MUSICA",HIT TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4334.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hollywood HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Hollywood HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4238.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iberalia" tvg-logo="" group-title="MOVISTAR + ",Iberalia
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4331.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="interalmería TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",interalmería TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4342.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La 1" tvg-logo="" group-title="MOVISTAR TDT",La 1
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4215.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La 2" tvg-logo="" group-title="MOVISTAR TDT",La 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4216.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Sexta HD" tvg-logo="" group-title="MOVISTAR TDT",La Sexta HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4220.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lebrija TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Lebrija TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4337.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marbella TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Marbella TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4343.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA" tvg-logo="" group-title="MOVISTAR TDT",MEGA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4235.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="MOVISTAR MUSICA",MEZZO LIVE HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4348.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Accion HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Accion HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4240.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar CineDoc&Roll HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar CineDoc&Roll HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4241.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Comedia HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Comedia HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4246.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DCine Ñ" tvg-logo="" group-title="MOVISTAR CINE-SERIES",MOVISTAR DCine Ñ
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4247.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 1 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 1 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4296.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 2 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 2 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4297.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 3 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 3 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4298.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 4 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 4 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4299.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 5 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 5 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4300.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 6 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 6 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4301.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar DEPORTE 7 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar DEPORTE",Movistar DEPORTE 7 (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4302.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Deportes  HD" tvg-logo="" group-title="Movistar DEPORTE",Movistar Deportes  HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4254.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Drama HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Drama HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4245.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Estrenos HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Estrenos HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4244.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Formula 1 HD" tvg-logo="" group-title="MOVISTAR F1",Movistar Formula 1 HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4257.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Futbol HD" tvg-logo="" group-title="MOVISTAR LA LIGA",Movistar Futbol HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Golf HD" tvg-logo="" group-title="MOVISTAR GOLF",Movistar Golf HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4256.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA / La Liga TV Bar HD / DirecTv Sports" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA / La Liga TV Bar HD / DirecTv Sports
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4250.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 1" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 1
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 1 FHD (1080P)" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 1 FHD (1080P)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4312.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 10" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 10
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4323.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4315.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2 FHD (1080P)" tvg-logo="" group-title="(no group)",MOVISTAR LA LIGA 2 FHD (1080P)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4314.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 3" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 3
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4316.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 4" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 4
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4317.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 5" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 5
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4318.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 6" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 6
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4319.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 7" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 7
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4320.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 8" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 8
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4321.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 9" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 9
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4322.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4249.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 1" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 1
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4304.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 1 FHD (1080P)" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 1 FHD (1080P)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4303.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 2" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4253.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 2 FHD (1080P)" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 2 FHD (1080P)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4305.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 3" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 3
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4306.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 5" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 5
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4308.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 6" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 6
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 7" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 7
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4310.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES 8" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES 8
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA CAMPEONES HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4252.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",MOVISTAR LIGA DE CAMPEONES 4
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4307.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Moto GP HD (SOLO EVENTOS)" tvg-logo="" group-title="MOVISTAR MOTOR",Movistar Moto GP HD (SOLO EVENTOS)
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4328.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Series HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Series HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4242.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Series Mania HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Movistar Series Mania HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4243.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR TOROS HD" tvg-logo="" group-title="MOVISTAR TOROS",MOVISTAR TOROS HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4248.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movistar Vamos HD" tvg-logo="" group-title="MOVISTAR + ",Movistar Vamos HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4251.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV ESP" tvg-logo="" group-title="MOVISTAR MUSICA",MTV ESP
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4294.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="MOVISTAR HISTORIA",NAT GEO WILD HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4267.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD" tvg-logo="" group-title="MOVISTAR HISTORIA",National Geographic HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4266.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX" tvg-logo="" group-title="MOVISTAR TDT",NEOX
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4232.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="MOVISTAR DIBUJOS ",NICK JR
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4277.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON HD" tvg-logo="" group-title="MOVISTAR DIBUJOS",NICKELODEON HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4278.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA" tvg-logo="" group-title="MOVISTAR TDT",NOVA
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4290.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Odisea" tvg-logo="" group-title="MOVISTAR HIOSTORIA",Odisea
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4291.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onda TV canal 10" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Onda TV canal 10
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4345.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="MOVISTAR CINE-SERIES",PARAMOUNT CHANNEL
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4239.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Córdoba HD" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",PTV Córdoba HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4344.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID TV" tvg-logo="" group-title="MOVISTAR TDT",REAL MADRID TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4261.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOL MUSICA HD" tvg-logo="" group-title="(no group)",SOL MUSICA HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4349.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",SOMOS HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4354.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE" tvg-logo="" group-title="MOVISTAR CINE-SERIES",SUNDANCE
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4287.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SyFy HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",SyFy HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4226.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",TCM HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4228.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecinco HD" tvg-logo="" group-title="MOVISTAR TDT",Telecinco HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4219.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEDEPORTE" tvg-logo="" group-title="MOVISTAR TDT",TELEDEPORTE
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4260.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMADRID" tvg-logo="" group-title="MOVISTAR TDT",TELEMADRID
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4262.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televisión Melilla HD" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Televisión Melilla HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4350.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN" tvg-logo="" group-title="MOVISTAR CINE-SERIES",TEN
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4292.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",TNT HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4286.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toros TV HD" tvg-logo="" group-title="MOVISTAR TOROS",Toros TV HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4295.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Girona" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",TV Girona
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4347.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE Internacional" tvg-logo="" group-title="MOVISTAR TDT",TVE Internacional
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4214.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viajar HD" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Viajar HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4269.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xtrm HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Xtrm HD
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4330.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 4" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 4
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/24073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 3" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 3
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/24074.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 2" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/24075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 1" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 1
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/24076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 3" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 3
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25003.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 4" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 4
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25004.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 5" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 5
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25005.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 6" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 6
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25006.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 7" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 7
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25007.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 8" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 8
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25008.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- EUROSPORT 9" tvg-logo="" group-title="MOVISTAR EUROSPORT",Spain- EUROSPORT 9
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25009.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Real Madrid TV" tvg-logo="" group-title="MOVISTAR TDT",Spain- Real Madrid TV
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25010.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 9" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 9
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25012.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 10" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 10
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25013.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 11" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 11
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25014.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 12" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 12
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25015.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 13" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 13
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25016.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 14" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 14
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25017.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 15" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 15
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- MOVISTAR LIGA CAMPEONES 16" tvg-logo="" group-title="MOVISTAR LIGA CAMPEONES",Spain- MOVISTAR LIGA CAMPEONES 16
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25019.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 3" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 3
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25020.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 4" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 4
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25021.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spain- Dazn 2" tvg-logo="" group-title="MOVISTAR DAZN",Spain- Dazn 2
+http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/25022.ts
