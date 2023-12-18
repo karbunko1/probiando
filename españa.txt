@@ -1,9 +1,47 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz, https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true, "
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
 
+#EXTINF:-1 tvg-name="FEFTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 1
+http://25684128986595391.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595391.ts
+#EXTINF:-1 tvg-name="FEFTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 2
+http://25684128986595392.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595392.ts
+#EXTINF:-1 tvg-name="FEFTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 3
+http://25684128986595393.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595393.ts
+#EXTINF:-1 tvg-name="FEFTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 4
+http://25684128986595394.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595394.ts
+#EXTINF:-1 tvg-name="FEFTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 5
+http://25684128986595395.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595395.ts
+#EXTINF:-1 tvg-name="FEFTV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 6
+http://25684128986595396.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595396.ts
+#EXTINF:-1 tvg-name="FEFTV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 7
+http://25684128986595397.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595397.ts
+#EXTINF:-1 tvg-name="FEFTV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 8
+http://25684128986595398.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595398.ts
+#EXTINF:-1 tvg-name="FEFTV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 9
+http://25684128986595399.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595399.ts
+#EXTINF:-1 tvg-name="FEFTV 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 10
+http://25684128986595400.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595400.ts
+#EXTINF:-1 tvg-name="FEFTV 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 11
+http://25684128986595401.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595401.ts
+#EXTINF:-1 tvg-name="FEFTV 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 12
+http://25684128986595402.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595402.ts
+#EXTINF:-1 tvg-name="FEFTV 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 13
+http://25684128986595403.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595403.ts
+#EXTINF:-1 tvg-name="FEFTV 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 14
+http://25684128986595404.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595404.ts
+#EXTINF:-1 tvg-name="FEFTV 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 15
+http://25684128986595405.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595405.ts
+#EXTINF:-1 tvg-name="FEFTV 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 16
+http://25684128986595406.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595406.ts
+#EXTINF:-1 tvg-name="FEFTV 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 17
+http://25684128986595407.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595407.ts
+#EXTINF:-1 tvg-name="FEFTV 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 18
+http://25684128986595408.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595408.ts
+#EXTINF:-1 tvg-name="FEFTV 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 19
+http://25684128986595409.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595409.ts
+#EXTINF:-1 tvg-name="FEFTV 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/800px-FEF_TV_Logo.png" group-title="ES FEFTV",FEFTV 20
+http://25684128986595410.of230922.xyz:80/play/CCB9UBNVN9/Ab9GwMyxGua/595410.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#0 HD" tvg-logo="" group-title="MOVISTAR + ",#0 HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4221.ts
@@ -63,7 +101,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4351.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4236.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Condavision HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Condavision HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4339.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cosmo HD" tvg-logo="" group-title="(no group)",Cosmo HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cosmo HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Cosmo HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4229.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMEN + INVESTIGACION" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",CRIMEN + INVESTIGACION
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4270.ts
@@ -93,7 +131,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4288.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4341.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENERGY" tvg-logo="" group-title="MOVISTAR TDT",ENERGY
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4230.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 HD" tvg-logo="" group-title="(no group)",ETB 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETB 1 HD" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",ETB 1 HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4336.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="MOVISTAR EUROSPORT",EUROSPORT 1 HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4258.ts
@@ -115,7 +153,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4353.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4334.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hollywood HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Hollywood HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4238.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iberalia" tvg-logo="" group-title="MOVISTAR + ",Iberalia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iberalia" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Iberalia
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4331.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="interalmería TV" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",interalmería TV
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4342.ts
@@ -177,7 +215,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4312.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4323.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 2
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4315.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2 FHD (1080P)" tvg-logo="" group-title="(no group)",MOVISTAR LA LIGA 2 FHD (1080P)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 2 FHD (1080P)" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 2 FHD (1080P)
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4314.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA 3" tvg-logo="" group-title="MOVISTAR LA LIGA",MOVISTAR LA LIGA 3
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4316.ts
@@ -251,7 +289,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4239.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4344.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REAL MADRID TV" tvg-logo="" group-title="MOVISTAR TDT",REAL MADRID TV
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4261.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOL MUSICA HD" tvg-logo="" group-title="(no group)",SOL MUSICA HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOL MUSICA HD" tvg-logo="" group-title="MOVISTAR MUSICA",SOL MUSICA HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4349.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOS HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",SOMOS HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4354.ts
