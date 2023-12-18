@@ -241,7 +241,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4277.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4278.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVA" tvg-logo="" group-title="MOVISTAR TDT",NOVA
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4290.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Odisea" tvg-logo="" group-title="MOVISTAR HIOSTORIA",Odisea
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Odisea" tvg-logo="" group-title="MOVISTAR HISTORIA",Odisea
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4291.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onda TV canal 10" tvg-logo="" group-title="MOVISTAR AUTONOMICOS",Onda TV canal 10
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4345.ts
