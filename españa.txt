@@ -97,7 +97,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4282.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4333.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COCINA  HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",COCINA  HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4351.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="" group-title="(no group)",Comedy Central HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="" group-title="MOVISTAR CINE-SERIES",Comedy Central HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4236.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Condavision HD" tvg-logo="" group-title="MOVISTAR ENTRETENIMIENTO",Condavision HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4339.ts
@@ -273,7 +273,7 @@ http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4267.ts
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4266.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEOX" tvg-logo="" group-title="MOVISTAR TDT",NEOX
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4232.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="MOVISTAR DIBUJOS ",NICK JR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR" tvg-logo="" group-title="MOVISTAR DIBUJOS",NICK JR
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4277.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON HD" tvg-logo="" group-title="MOVISTAR DIBUJOS",NICKELODEON HD
 http://fast.bounceme.net:8080/live/J5kdzDPHsC/Uqp2ts6jLD/4278.ts
